@@ -1,0 +1,296 @@
+Num Est,Año Est,Sexo,Depart Code,Depart Name,Prog Code,Prog Name,GPA,Muni,Año Cred,Prog Type,dropout
+841-07-2709,más de 10,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,209,BAYAMON,CUA,Bachillerato,Y
+841-07-5499,más de 10,F,AE,Administración de Empresas,CONT,Contabilidad,372,TOA BAJA,6TO,Bachillerato,Y
+841-08-0977,más de 10,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,298,BAYAMON,CUA,Bachillerato,Y
+841-09-3015,más de 10,M,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,271,TOA BAJA,CUA,Bachillerato,Y
+841-11-4260,más de 10,F,CN,Biología,BHUM,Biología Enfoque Humano,389,GUAYNABO,CUA,Bachillerato,Y
+841-11-5164,más de 10,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,308,GUAYNABO,CUA,Bachillerato,Y
+841-11-5180,más de 10,M,CN,Biología,BHUM,Biología Enfoque Humano,236,TOA BAJA,CUA,Bachillerato,Y
+841-11-5860,más de 10,F,SO,Sistemas de Oficina,SOFI,Sistemas de Oficina,153,SAN LORENZO,SEG,Bachillerato,Y
+841-11-7255,más de 10,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,244,TOA ALTA,CUA,Bachillerato,Y
+841-12-3069,10,M,CN,Biología,BHUM,Biología Enfoque Humano,224,SAN JUAN,CUA,Bachillerato,Y
+841-12-6813,10,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,299,BAYAMON,CUA,Bachillerato,Y
+841-12-7218,10,M,AE,Administración de Empresas,CONT,Contabilidad,227,TOA ALTA,CNB,Bachillerato,Y
+841-13-0970,9,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,280,VEGA BAJA,CUA,Bachillerato,Y
+841-13-2350,9,M,TI,Ingeniería,GEMA,Gerencia de Materiales,246,TOA ALTA,CUA,Bachillerato,Y
+841-13-3940,9,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,284,TOA BAJA,CUA,Bachillerato,Y
+841-13-5095,9,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,265,CAROLINA,CUA,Bachillerato,Y
+841-13-6360,9,F,CN,Biología,BIOG,Biología General,270,DORADO,CUA,Bachillerato,Y
+841-13-6440,9,F,EF,Educación Física,EFEE,Educación Física Especial y E;emental,293,YAUCO,CUA,Bachillerato,Y
+841-13-6750,9,F,CN,Biología,BIOG,Biología General,274,VEGA BAJA,CUA,Bachillerato,Y
+841-13-7720,9,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,230,TOA ALTA,SEG,Bachillerato,Y
+841-14-0750,8,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,285,CAYEY,CUA,Bachillerato,Y
+841-14-1273,8,F,AE,Administración de Empresas,CONT,Contabilidad,256,BAYAMON,CUA,Bachillerato,Y
+841-14-3957,8,M,CN,Biología,BHUM,Biología Enfoque Humano,288,BAYAMON,CUA,Bachillerato,Y
+841-14-4390,8,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,255,VEGA BAJA,CUA,Bachillerato,Y
+841-14-5480,8,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,237,BARRANQUITAS,CUA,Bachillerato,Y
+841-14-5874,8,M,CN,Biología,BIOG,Biología General,282,CAROLINA,CUA,Bachillerato,Y
+841-14-6365,8,F,CN,Biología,BHUM,Biología Enfoque Humano,338,TOA ALTA,6TO,Bachillerato,Y
+841-14-7140,8,F,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,275,SAN LORENZO,CUA,Bachillerato,Y
+841-14-7520,8,M,TI,Ingeniería,GEMA,Gerencia de Materiales,294,CAGUAS,CUA,Bachillerato,Y
+841-14-8330,8,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,275,BAYAMON,CUA,Bachillerato,Y
+841-14-8530,8,F,AE,Administración de Empresas,MERC,Mercadeo,266,BAYAMON,CUA,Bachillerato,Y
+841-15-0087,7,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,339,SAN JUAN,CUA,Bachillerato,Y
+841-15-0790,7,F,CN,Biología,BIOG,Biología General,282,TOA ALTA,TER,Bachillerato,Y
+841-15-1650,7,F,CN,Biología,BIOG,Biología General,269,MOROVIS,CUA,Bachillerato,Y
+841-15-1716,7,F,AE,Administración de Empresas,GERE,Gerencia,303,BAYAMON,TNB,Bachillerato,Y
+841-15-2320,7,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,327,BAYAMON,CUA,Bachillerato,Y
+841-15-2810,7,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,191,SAN JUAN,SEG,Bachillerato,Y
+841-15-3750,7,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,310,JUNCOS,CUA,Bachillerato,Y
+841-15-4330,7,M,AE,Administración de Empresas,MERC,Mercadeo,249,BAYAMON,CUA,Bachillerato,Y
+841-15-4740,7,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,302,GUAYNABO,CUA,Bachillerato,Y
+841-15-5662,7,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,229,BAYAMON,TER,Bachillerato,Y
+841-15-6220,7,F,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,216,CANOVANAS,TER,Bachillerato,Y
+841-15-6645,7,F,CN,Biología,BIOG,Biología General,232,ISABELA,CUA,Bachillerato,Y
+841-15-6860,7,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,300,TOA ALTA,CUA,Bachillerato,Y
+841-15-7100,7,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,355,VEGA BAJA,CUA,Bachillerato,Y
+841-15-7140,7,M,AE,Administración de Empresas,CONT,Contabilidad,254,TOA BAJA,CUA,Bachillerato,Y
+841-15-7235,7,M,CN,Biología,BIOG,Biología General,342,BAYAMON,CUA,Bachillerato,Y
+841-15-8770,7,M,AE,Administración de Empresas,GERE,Gerencia,267,VEGA ALTA,CUA,Bachillerato,Y
+841-15-8840,7,M,AE,Administración de Empresas,GERE,Gerencia,243,TOA BAJA,CUA,Bachillerato,Y
+841-15-8895,7,F,CN,Biología,BHUM,Biología Enfoque Humano,350,GUAYNABO,CUA,Bachillerato,Y
+841-15-9150,7,M,AE,Administración de Empresas,FINA,Finanzas,247,TRUJILLO ALTO,TER,Bachillerato,Y
+841-15-9230,7,F,AE,Administración de Empresas,MERC,Mercadeo,238,SAN JUAN,TNB,Bachillerato,Y
+841-15-9820,7,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,334,BAYAMON,CUA,Bachillerato,Y
+841-15-9890,7,F,AE,Administración de Empresas,FINA,Finanzas,224,BAYAMON,SNB,Bachillerato,Y
+841-15-9920,7,F,CN,Biología,BIOG,Biología General,252,AGUAS BUENAS,CUA,Bachillerato,Y
+841-15-9940,7,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,257,BAYAMON,CUA,Bachillerato,Y
+841-16-0235,6,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,260,SAN JUAN,CUA,Bachillerato,Y
+841-16-0880,6,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,269,BAYAMON,CUA,Bachillerato,Y
+841-16-0960,6,F,TI,Ingeniería,GEMA,Gerencia de Materiales,319,GUAYNABO,CUA,Bachillerato,Y
+841-16-1195,6,M,AE,Administración de Empresas,GERE,Gerencia,269,COROZAL,CUA,Bachillerato,Y
+841-16-1490,6,M,CN,Biología,BHUM,Biología Enfoque Humano,256,VEGA ALTA,CUA,Bachillerato,Y
+841-16-1768,6,F,AE,Administración de Empresas,CONT,Contabilidad,282,SAN JUAN,CUA,Bachillerato,Y
+841-16-2090,6,F,CN,Biología,BIOG,Biología General,249,VEGA BAJA,CUA,Bachillerato,Y
+841-16-2335,6,M,AE,Administración de Empresas,GERE,Gerencia,288,SAN JUAN,TNB,Bachillerato,Y
+841-16-2580,6,F,CN,Biología,BHUM,Biología Enfoque Humano,345,SAN JUAN,TER,Bachillerato,Y
+841-16-2990,6,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,221,VEGA BAJA,TER,Bachillerato,Y
+841-16-3110,6,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,303,CATANO,CUA,Bachillerato,Y
+841-16-3490,6,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,196,SAN JUAN,SEG,Bachillerato,Y
+841-16-3860,6,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,356,TOA ALTA,CUA,Bachillerato,Y
+841-16-5035,6,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,222,CAROLINA,CUA,Bachillerato,Y
+841-16-5440,6,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,278,SAN JUAN,CUA,Bachillerato,Y
+841-16-5950,6,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,241,BAYAMON,CUA,Bachillerato,Y
+841-16-6065,6,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,322,BAYAMON,CUA,Bachillerato,Y
+841-16-6120,6,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,367,CAROLINA,CUA,Bachillerato,Y
+841-16-6130,6,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,262,BAYAMON,CUA,Bachillerato,Y
+841-16-6174,6,M,CN,Biología,BHUM,Biología Enfoque Humano,341,BAYAMON,CUA,Bachillerato,Y
+841-16-6420,6,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,261,CANOVANAS,CUA,Bachillerato,Y
+841-16-6530,6,M,CN,Biología,BIOG,Biología General,294,BAYAMON,CUA,Bachillerato,Y
+841-16-6800,6,F,AE,Administración de Empresas,CONT,Contabilidad,315,BAYAMON,6TO,Bachillerato,Y
+841-16-6950,6,F,AE,Administración de Empresas,CONT,Contabilidad,253,BAYAMON,CUA,Bachillerato,Y
+841-16-7810,6,M,EF,Educación Física,EFEE,Educación Física Especial y E;emental,301,CATANO,CUA,Bachillerato,Y
+841-16-7880,6,F,EF,Educación Física,EFEE,Educación Física Especial y E;emental,295,CATANO,CUA,Bachillerato,Y
+841-16-8040,6,F,CN,Biología,BHUM,Biología Enfoque Humano,310,TOA ALTA,CUA,Bachillerato,Y
+841-16-8480,6,M,CN,Biología,BHUM,Biología Enfoque Humano,314,TRUJILLO ALTO,CUA,Bachillerato,Y
+841-16-8540,6,M,CN,Biología,BHUM,Biología Enfoque Humano,278,BAYAMON,CUA,Bachillerato,Y
+841-16-8770,6,M,AE,Administración de Empresas,CONT,Contabilidad,317,BAYAMON,CUA,Bachillerato,Y
+841-16-8850,6,M,AE,Administración de Empresas,MERC,Mercadeo,308,BAYAMON,CUA,Bachillerato,Y
+841-16-8870,6,M,AE,Administración de Empresas,GERE,Gerencia,247,VEGA BAJA,CUA,Bachillerato,Y
+841-16-9250,6,F,AE,Administración de Empresas,MERC,Mercadeo,291,NARANJITO,CUA,Bachillerato,Y
+841-17-0001,5,F,CN,Biología,BHUM,Biología Enfoque Humano,344,TOA ALTA,TER,Bachillerato,Y
+841-17-0234,5,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,293,GUAYNABO,CUA,Bachillerato,Y
+841-17-0258,5,F,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,364,BAYAMON,CUA,Bachillerato,Y
+841-17-0559,5,M,CN,Biología,BHUM,Biología Enfoque Humano,268,BAYAMON,CUA,Bachillerato,Y
+841-17-0768,5,F,CN,Biología,BHUM,Biología Enfoque Humano,325,COROZAL,TER,Bachillerato,Y
+841-17-0873,5,F,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,322,BAYAMON,CUA,Bachillerato,Y
+841-17-0908,5,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,320,SABANA SECA,CUA,Bachillerato,Y
+841-17-0922,5,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,319,TOA ALTA,CUA,Bachillerato,Y
+841-17-0935,5,M,CN,Biología,BIOG,Biología General,349,TOA BAJA,CUA,Bachillerato,Y
+841-17-1063,5,F,AE,Administración de Empresas,GERE,Gerencia,298,SAN JUAN,CUA,Bachillerato,Y
+841-17-1097,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,309,GURABO,CUA,Bachillerato,Y
+841-17-1453,5,F,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,247,COROZAL,TER,Bachillerato,Y
+841-17-1463,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,324,GURABO,CUA,Bachillerato,Y
+841-17-1588,5,M,AE,Administración de Empresas,GERE,Gerencia,217,BAYAMON,TER,Bachillerato,Y
+841-17-1861,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,341,GURABO,CUA,Bachillerato,Y
+841-17-1980,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,359,BAYAMON,CUA,Bachillerato,Y
+841-17-2046,5,M,EF,Educación Física,EFEE,Educación Física Especial y E;emental,292,VEGA ALTA,CUA,Bachillerato,Y
+841-17-2703,5,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,351,FAJARDO,CUA,Bachillerato,Y
+841-17-2758,5,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,301,SAN JUAN,CUA,Bachillerato,Y
+841-17-2975,5,M,CN,Biología,BHUM,Biología Enfoque Humano,341,BAYAMON,CUA,Bachillerato,Y
+841-17-3106,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,356,BAYAMON,CUA,Bachillerato,Y
+841-17-3301,5,M,CN,Biología,BIOG,Biología General,359,SAN JUAN,CUA,Bachillerato,Y
+841-17-3410,5,F,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,339,BAYAMON,CUA,Bachillerato,Y
+841-17-3586,5,M,AE,Administración de Empresas,GERE,Gerencia,323,BAYAMON,CUA,Bachillerato,Y
+841-17-3614,5,M,AE,Administración de Empresas,MERC,Mercadeo,264,SAN JUAN,SEG,Bachillerato,Y
+841-17-3659,5,M,AE,Administración de Empresas,CONT,Contabilidad,221,DORADO,TER,Bachillerato,Y
+841-17-3683,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,360,SAN JUAN,CUA,Bachillerato,Y
+841-17-3924,5,F,CN,Biología,BIOG,Biología General,165,TOA ALTA,SEG,Bachillerato,Y
+841-17-3950,5,M,CN,Biología,BIOG,Biología General,279,CAROLINA,CUA,Bachillerato,Y
+841-17-4030,5,F,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,358,TOA BAJA,CUA,Bachillerato,Y
+841-17-4250,5,M,AE,Administración de Empresas,MERC,Mercadeo,245,BAYAMON,TER,Bachillerato,Y
+841-17-4796,5,F,CN,Biología,BHUM,Biología Enfoque Humano,256,TRUJILLO ALTO,CUA,Bachillerato,Y
+841-17-4968,5,M,AE,Administración de Empresas,MERC,Mercadeo,329,BAYAMON,TER,Bachillerato,Y
+841-17-4988,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,326,CAGUAS,CUA,Bachillerato,Y
+841-17-5100,5,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,324,BAYAMON,CUA,Bachillerato,Y
+841-17-5625,5,F,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,267,BAYAMON,SEG,Bachillerato,Y
+841-17-5875,5,M,AE,Administración de Empresas,GERE,Gerencia,262,BAYAMON,TER,Bachillerato,Y
+841-17-5973,5,F,AE,Administración de Empresas,CONT,Contabilidad,224,BAYAMON,SEG,Bachillerato,Y
+841-17-6122,5,F,SO,Sistemas de Oficina,SOFI,Sistemas de Oficina,267,TOA ALTA,CUA,Bachillerato,Y
+841-17-6435,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,332,SAN JUAN,CUA,Bachillerato,Y
+841-17-6685,5,M,AE,Administración de Empresas,GERE,Gerencia,276,BAYAMON,CUA,Bachillerato,Y
+841-17-6718,5,M,CN,Biología,BIOG,Biología General,299,BAYAMON,CUA,Bachillerato,Y
+841-17-6855,5,M,AE,Administración de Empresas,FINA,Finanzas,296,BAYAMON,TER,Bachillerato,Y
+841-17-6943,5,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,277,AGUAS BUENAS,CUA,Bachillerato,Y
+841-17-7152,5,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,228,TOA ALTA,TER,Bachillerato,Y
+841-17-7183,5,F,EF,Educación Física,EFEE,Educación Física Especial y E;emental,230,BAYAMON,CUA,Bachillerato,Y
+841-17-7247,5,F,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,348,SAN JUAN,CUA,Bachillerato,Y
+841-17-7300,5,F,CN,Biología,BIOG,Biología General,272,CAROLINA,CUA,Bachillerato,Y
+841-17-7304,5,M,AE,Administración de Empresas,FINA,Finanzas,276,SAN JUAN,TER,Bachillerato,Y
+841-17-7790,5,F,AE,Administración de Empresas,GERE,Gerencia,333,VEGA ALTA,CUA,Bachillerato,Y
+841-17-8094,5,M,CN,Biología,BHUM,Biología Enfoque Humano,279,TOA ALTA,CUA,Bachillerato,Y
+841-17-8227,5,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,359,BAYAMON,CUA,Bachillerato,Y
+841-17-8263,5,F,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,343,GUAYNABO,CUA,Bachillerato,Y
+841-17-8354,5,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,238,BAYAMON,TER,Bachillerato,Y
+841-17-8679,5,M,AE,Administración de Empresas,FINA,Finanzas,320,BAYAMON,CUA,Bachillerato,Y
+841-17-8902,5,F,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,296,CAGUAS,CUA,Bachillerato,Y
+841-17-9205,5,F,AE,Administración de Empresas,GERE,Gerencia,286,COROZAL,CUA,Bachillerato,Y
+841-17-9290,5,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,345,SAN JUAN,CUA,Bachillerato,Y
+841-17-9324,5,M,CN,Biología,BHUM,Biología Enfoque Humano,325,BAYAMON,CUA,Bachillerato,Y
+841-17-9327,5,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,234,GUAYNABO,TER,Bachillerato,Y
+841-17-9420,5,F,CN,Biología,BHUM,Biología Enfoque Humano,354,TOA BAJA,CUA,Bachillerato,Y
+841-17-9640,5,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,374,CAROLINA,CUA,Bachillerato,Y
+841-17-9954,5,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,306,BAYAMON,CUA,Bachillerato,Y
+841-18-0407,4,F,AE,Administración de Empresas,GERE,Gerencia,258,CAROLINA,TER,Bachillerato,Y
+841-18-0496,4,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,231,TOA ALTA,SEG,Bachillerato,Y
+841-18-0575,4,F,CN,Biología,BIOG,Biología General,364,COROZAL,CUA,Bachillerato,Y
+841-18-0722,4,M,AE,Administración de Empresas,MERC,Mercadeo,230,BAYAMON,SEG,Bachillerato,Y
+841-18-0976,4,F,AE,Administración de Empresas,GERE,Gerencia,247,SAN JUAN,TNB,Bachillerato,Y
+841-18-1217,4,F,CN,Biología,BHUM,Biología Enfoque Humano,300,BAYAMON,TER,Bachillerato,Y
+841-18-1362,4,F,AE,Administración de Empresas,MERC,Mercadeo,292,GUAYNABO,TER,Bachillerato,Y
+841-18-1391,4,M,AE,Administración de Empresas,GERE,Gerencia,304,BAYAMON,TER,Bachillerato,Y
+841-18-1695,4,M,AE,Administración de Empresas,CONT,Contabilidad,309,TOA BAJA,TER,Bachillerato,Y
+841-18-1818,4,F,CN,Biología,BHUM,Biología Enfoque Humano,353,BAYAMON,CUA,Bachillerato,Y
+841-18-2006,4,F,AE,Administración de Empresas,GERE,Gerencia,248,NARANJITO,TER,Bachillerato,Y
+841-18-2565,4,F,AE,Administración de Empresas,GERE,Gerencia,282,TOA ALTA,TER,Bachillerato,Y
+841-18-2893,4,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,258,BAYAMON,TER,Bachillerato,Y
+841-18-3064,4,F,CN,Biología,BIOG,Biología General,294,BAYAMON,TER,Bachillerato,Y
+841-18-3255,4,F,AE,Administración de Empresas,MERC,Mercadeo,326,SABANA SECA,CUA,Bachillerato,Y
+841-18-3289,4,F,CN,Biología,BIOG,Biología General,303,CATANO,TER,Bachillerato,Y
+841-18-3412,4,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,238,CATANO,TER,Bachillerato,Y
+841-18-3724,4,F,CN,Biología,BIOG,Biología General,342,TOA ALTA,CUA,Bachillerato,Y
+841-18-3843,4,F,CN,Biología,BHUM,Biología Enfoque Humano,317,GUAYNABO,TER,Bachillerato,Y
+841-18-4173,4,F,AE,Administración de Empresas,MERC,Mercadeo,343,TOA ALTA,CUA,Bachillerato,Y
+841-18-4429,4,F,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,245,TOA ALTA,TER,Bachillerato,Y
+841-18-4508,4,M,AE,Administración de Empresas,MERC,Mercadeo,173,TOA ALTA,SEG,Bachillerato,Y
+841-18-5005,4,M,AE,Administración de Empresas,GERE,Gerencia,300,SAN JUAN,TER,Bachillerato,Y
+841-18-5238,4,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,239,CAYEY,TER,Bachillerato,Y
+841-18-6045,4,M,AE,Administración de Empresas,FINA,Finanzas,205,PONCE,TER,Bachillerato,Y
+841-18-6092,4,F,CC,Ciencias de Computadoras,SINF,Sistemas de Información,293,CAROLINA,TER,Bachillerato,Y
+841-18-6282,4,M,SO,Sistemas de Oficina,SOFI,Sistemas de Oficina,221,VEGA ALTA,TER,Bachillerato,Y
+841-18-6570,4,F,AE,Administración de Empresas,CONT,Contabilidad,269,CAROLINA,SEG,Bachillerato,Y
+841-18-6653,4,F,CN,Biología,BHUM,Biología Enfoque Humano,275,CAROLINA,SEG,Bachillerato,Y
+841-18-7119,4,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,320,BAYAMON,CUA,Bachillerato,Y
+841-18-7175,4,M,AE,Administración de Empresas,GERE,Gerencia,257,CAGUAS,TER,Bachillerato,Y
+841-18-7199,4,F,TI,Ingeniería,GEMA,Gerencia de Materiales,300,VEGA BAJA,SEG,Bachillerato,Y
+841-18-7322,4,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,250,SAN JUAN,SEG,Bachillerato,Y
+841-18-7330,4,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,220,CIDRA,TER,Bachillerato,Y
+841-18-7583,4,M,TI,Ingeniería,GEMA,Gerencia de Materiales,233,SAN JUAN,TER,Bachillerato,Y
+841-18-7705,4,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,301,VEGA BAJA,TER,Bachillerato,Y
+841-18-7723,4,F,CN,Biología,BIOG,Biología General,261,NARANJITO,SEG,Bachillerato,Y
+841-18-7940,4,,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,292,BAYAMON,SEG,Bachillerato,Y
+841-18-8017,4,M,CN,Biología,BIOG,Biología General,275,CATANO,TER,Bachillerato,Y
+841-18-8196,4,F,CN,Biología,BHUM,Biología Enfoque Humano,304,BAYAMON,TER,Bachillerato,Y
+841-18-8432,4,F,AE,Administración de Empresas,GERE,Gerencia,250,TOA BAJA,SEG,Bachillerato,Y
+841-18-8564,4,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,252,SAN LORENZO,TER,Bachillerato,Y
+841-18-8628,4,M,AE,Administración de Empresas,GERE,Gerencia,296,BAYAMON,TER,Bachillerato,Y
+841-18-8823,4,M,CN,Biología,BHUM,Biología Enfoque Humano,249,CAROLINA,TER,Bachillerato,Y
+841-18-8831,4,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,277,TOA ALTA,TER,Bachillerato,Y
+841-18-8851,4,F,AE,Administración de Empresas,CONT,Contabilidad,277,NARANJITO,TER,Bachillerato,Y
+841-18-8931,4,M,CN,Biología,BIOG,Biología General,207,GUAYNABO,SEG,Bachillerato,Y
+841-18-9328,4,F,CN,Biología,BHUM,Biología Enfoque Humano,392,BAYAMON,CUA,Bachillerato,Y
+841-18-9690,4,F,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,315,BAYAMON,TER,Bachillerato,Y
+841-19-0101,3,F,CN,Biología,BIOG,Biología General,313,TOA ALTA,SEG,Bachillerato,Y
+841-19-0181,3,F,AE,Administración de Empresas,CONT,Contabilidad,315,TOA BAJA,SEG,Bachillerato,Y
+841-19-0266,3,F,SO,Sistemas de Oficina,SOFI,Sistemas de Oficina,287,AGUAS BUENAS,SEG,Bachillerato,Y
+841-19-0303,3,F,CN,Biología,BHUM,Biología Enfoque Humano,295,TOA BAJA,SEG,Bachillerato,Y
+841-19-0349,3,M,TI,Ingeniería,GEMA,Gerencia de Materiales,273,ARROYO,SEG,Bachillerato,Y
+841-19-0351,3,M,AE,Administración de Empresas,CONT,Contabilidad,253,BAYAMON,SEG,Bachillerato,Y
+841-19-0437,3,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,308,BAYAMON,SEG,Bachillerato,Y
+841-19-0756,3,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,359,TOA ALTA,SEG,Bachillerato,Y
+841-19-0757,3,M,CN,Biología,BHUM,Biología Enfoque Humano,323,VEGA BAJA,SEG,Bachillerato,Y
+841-19-0983,3,M,AE,Administración de Empresas,CONT,Contabilidad,268,GUAYNABO,SEG,Bachillerato,Y
+841-19-1035,3,F,AE,Administración de Empresas,GERE,Gerencia,279,BAYAMON,SEG,Bachillerato,Y
+841-19-1038,3,F,CN,Biología,BHUM,Biología Enfoque Humano,384,MANATI,TER,Bachillerato,Y
+841-19-1287,3,F,CN,Biología,BIOG,Biología General,352,NARANJITO,TER,Bachillerato,Y
+841-19-1305,3,F,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,290,TOA BAJA,SEG,Bachillerato,Y
+841-19-1351,3,F,CN,Biología,BHUM,Biología Enfoque Humano,322,BAYAMON,TER,Bachillerato,Y
+841-19-1628,3,M,CN,Biología,BHUM,Biología Enfoque Humano,290,BAYAMON,SEG,Bachillerato,Y
+841-19-1782,3,M,CN,Biología,BIOG,Biología General,169,BAYAMON,SEG,Bachillerato,Y
+841-19-1798,3,F,CN,Biología,BHUM,Biología Enfoque Humano,258,BAYAMON,SEG,Bachillerato,Y
+841-19-1934,3,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,368,BAYAMON,SEG,Bachillerato,Y
+841-19-2073,3,M,AE,Administración de Empresas,MERC,Mercadeo,295,BAYAMON,SEG,Bachillerato,Y
+841-19-2110,3,M,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,294,DORADO,SEG,Bachillerato,Y
+841-19-2203,3,F,CN,Biología,BHUM,Biología Enfoque Humano,341,BAYAMON,SEG,Bachillerato,Y
+841-19-2209,3,F,CN,Biología,BIOG,Biología General,290,BAYAMON,TER,Bachillerato,Y
+841-19-2667,3,M,CN,Biología,BIOG,Biología General,253,RIO GRANDE,SEG,Bachillerato,Y
+841-19-2736,3,M,AE,Administración de Empresas,CONT,Contabilidad,230,BAYAMON,SEG,Bachillerato,Y
+841-19-2858,3,M,AE,Administración de Empresas,CONT,Contabilidad,231,GUAYNABO,SEG,Bachillerato,Y
+841-19-2945,3,F,AE,Administración de Empresas,GERE,Gerencia,316,BAYAMON,SEG,Bachillerato,Y
+841-19-3029,3,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,319,TOA BAJA,SEG,Bachillerato,Y
+841-19-3046,3,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,310,TOA ALTA,SEG,Bachillerato,Y
+841-19-3255,3,M,AE,Administración de Empresas,MERC,Mercadeo,296,BAYAMON,SEG,Bachillerato,Y
+841-19-3539,3,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,290,TOA BAJA,SEG,Bachillerato,Y
+841-19-3923,3,M,TI,Ingeniería,GEMA,Gerencia de Materiales,334,BAYAMON,SEG,Bachillerato,Y
+841-19-4356,3,F,CN,Biología,BIOG,Biología General,321,GUAYNABO,SEG,Bachillerato,Y
+841-19-4602,3,M,AE,Administración de Empresas,MERC,Mercadeo,277,BAYAMON,SEG,Bachillerato,Y
+841-19-4949,3,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,228,SAN JUAN,SEG,Bachillerato,Y
+841-19-5026,3,F,AE,Administración de Empresas,FINA,Finanzas,369,BAYAMON,SEG,Bachillerato,Y
+841-19-5135,3,F,SO,Sistemas de Oficina,SOFI,Sistemas de Oficina,270,BAYAMON,SEG,Bachillerato,Y
+841-19-5342,3,F,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,257,BAYAMON,SEG,Bachillerato,Y
+841-19-5363,3,M,AE,Administración de Empresas,FINA,Finanzas,211,NARANJITO,SEG,Bachillerato,Y
+841-19-5726,3,F,CN,Biología,BIOG,Biología General,320,BAYAMON,TER,Bachillerato,Y
+841-19-5984,3,M,AE,Administración de Empresas,FINA,Finanzas,308,BAYAMON,SEG,Bachillerato,Y
+841-19-6224,3,M,TI,Ingeniería,GEMA,Gerencia de Materiales,204,COROZAL,SEG,Bachillerato,Y
+841-19-6440,3,M,EF,Educación Física,EFEE,Educación Física Especial y E;emental,292,VEGA ALTA,SEG,Bachillerato,Y
+841-19-6479,3,F,TI,Ingeniería,GEMA,Gerencia de Materiales,213,BAYAMON,SEG,Bachillerato,Y
+841-19-6524,3,F,TI,Ingeniería,GEMA,Gerencia de Materiales,325,TOA BAJA,SEG,Bachillerato,Y
+841-19-6692,3,F,AE,Administración de Empresas,MERC,Mercadeo,331,DORADO,SEG,Bachillerato,Y
+841-19-6876,3,M,AE,Administración de Empresas,GERE,Gerencia,282,BAYAMON,SEG,Bachillerato,Y
+841-19-6971,3,F,EF,Educación Física,EFEE,Educación Física Especial y E;emental,288,TRUJILLO ALTO,SEG,Bachillerato,Y
+841-19-7004,3,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,195,SAN JUAN,SEG,Bachillerato,Y
+841-19-7251,3,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,281,CAGUAS,SEG,Bachillerato,Y
+841-19-7270,3,F,AE,Administración de Empresas,CONT,Contabilidad,332,BAYAMON,SEG,Bachillerato,Y
+841-19-7278,3,M,CN,Biología,BHUM,Biología Enfoque Humano,270,VEGA ALTA,SEG,Bachillerato,Y
+841-19-7389,3,M,AE,Administración de Empresas,MERC,Mercadeo,279,BAYAMON,SEG,Bachillerato,Y
+841-19-7416,3,M,AE,Administración de Empresas,CONT,Contabilidad,271,VEGA ALTA,SEG,Bachillerato,Y
+841-19-7526,3,F,CN,Biología,BIOG,Biología General,378,BAYAMON,TER,Bachillerato,Y
+841-19-7541,3,M,TI,Ingeniería,GEMA,Gerencia de Materiales,316,TOA BAJA,SEG,Bachillerato,Y
+841-19-7609,3,F,CN,Biología,BHUM,Biología Enfoque Humano,338,LOIZA,SEG,Bachillerato,Y
+841-19-7722,3,M,AE,Administración de Empresas,GERE,Gerencia,248,CATANO,SEG,Bachillerato,Y
+841-19-7915,3,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,300,BAYAMON,SEG,Bachillerato,Y
+841-19-7920,3,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,356,BAYAMON,SEG,Bachillerato,Y
+841-19-8051,3,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,303,TOA ALTA,SEG,Bachillerato,Y
+841-19-8230,3,F,EF,Educación Física,EFEE,Educación Física Especial y E;emental,314,BAYAMON,SEG,Bachillerato,Y
+841-19-8309,3,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,350,CATANO,SEG,Bachillerato,Y
+841-19-8433,3,M,AE,Administración de Empresas,CONT,Contabilidad,181,BAYAMON,SEG,Bachillerato,Y
+841-19-8618,3,F,AE,Administración de Empresas,FINA,Finanzas,273,DORADO,SEG,Bachillerato,Y
+841-19-8625,3,F,CN,Biología,BIOG,Biología General,263,GUAYNABO,SEG,Bachillerato,Y
+841-19-8859,3,M,EF,Educación Física,EFEE,Educación Física Especial y E;emental,272,ARECIBO,SEG,Bachillerato,Y
+841-19-8982,3,F,CN,Biología,BIOG,Biología General,307,TOA BAJA,SEG,Bachillerato,Y
+841-19-9129,3,F,TI,Ingeniería,GEMA,Gerencia de Materiales,296,TOA BAJA,SEG,Bachillerato,Y
+841-19-9149,3,F,CN,Biología,BIOG,Biología General,331,COROZAL,TER,Bachillerato,Y
+841-19-9157,3,M,AE,Administración de Empresas,GERE,Gerencia,243,TOA BAJA,SEG,Bachillerato,Y
+841-19-9225,3,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,284,SABANA SECA,SEG,Bachillerato,Y
+841-19-9482,3,M,CN,Biología,BHUM,Biología Enfoque Humano,319,BAYAMON,TER,Bachillerato,Y
+841-19-9483,3,F,CC,Ciencias de Computadoras,CCOM,Ciencias de Cómputos,344,CAGUAS,SEG,Bachillerato,Y
+841-19-9507,3,,AE,Administración de Empresas,FINA,Finanzas,159,CAGUAS,SEG,Bachillerato,Y
+841-19-9560,3,F,CN,Biología,BIOG,Biología General,282,AGUAS BUENAS,SEG,Bachillerato,Y
+841-19-9647,3,F,CN,Biología,BIOG,Biología General,341,SAN JUAN,SEG,Bachillerato,Y
+841-19-9652,3,M,AE,Administración de Empresas,CONT,Contabilidad,223,CATANO,SEG,Bachillerato,Y
+841-19-9731,3,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,345,SAN JUAN,SEG,Bachillerato,Y
+841-20-2978,2,F,SO,Sistemas de Oficina,SOFI,Sistemas de Oficina,311,TOA BAJA,SEG,Bachillerato,Y
+841-20-3864,2,M,AE,Administración de Empresas,MERC,Mercadeo,292,BAYAMON,SEG,Bachillerato,Y
+841-20-4182,2,M,SO,Sistemas de Oficina,SOFI,Sistemas de Oficina,229,NARANJITO,SEG,Bachillerato,Y
+841-20-4492,2,F,CN,Biología,BIOG,Biología General,295,BAYAMON,SEG,Bachillerato,Y
+841-20-5083,2,F,EF,Educación Física,EFEE,Educación Física Especial y E;emental,354,TOA ALTA,SEG,Bachillerato,Y
+841-20-5417,2,M,EL,Electrónica,TIEL,Tecnología de la Ingeniería Electrónica,279,TOA BAJA,SEG,Bachillerato,Y
+841-20-6769,2,F,AE,Administración de Empresas,MERC,Mercadeo,382,BAYAMON,SEG,Bachillerato,Y
+841-20-7023,2,M,TI,Ingeniería,GEMA,Gerencia de Materiales,360,OROCOVIS,SEG,Bachillerato,Y
+841-20-7892,2,M,AE,Administración de Empresas,CONT,Contabilidad,380,BAYAMON,SEG,Bachillerato,Y
+841-20-8217,2,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,342,BAYAMON,SEG,Bachillerato,Y
+841-20-8905,2,F,SO,Sistemas de Oficina,SOFI,Sistemas de Oficina,261,TOA BAJA,SEG,Bachillerato,Y
+841-20-9458,2,M,CN,Biología,BHUM,Biología Enfoque Humano,303,GUAYNABO,SEG,Bachillerato,Y
+841-20-9953,2,F,CN,Biología,BIOG,Biología General,306,SAN JUAN,SEG,Bachillerato,Y
+841-79-0561,más de 10,M,AE,Administración de Empresas,CONT,Contabilidad,271,BAYAMON,CUA,Bachillerato,Y
+841-95-5281,más de 10,M,AE,Administración de Empresas,CONT,Contabilidad,313,BAYAMON,6TO,Bachillerato,Y

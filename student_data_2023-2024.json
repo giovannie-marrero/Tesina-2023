@@ -1,0 +1,10874 @@
+[
+ {
+   "Num Est": "841-05-8161",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 273,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-08-7429",
+   "Sexo": "M",
+   "Prog Code": "ESCO",
+   "GPA": 305,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-09-1083",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 216,
+   "Muni": "CAGUAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-09-3919",
+   "Sexo": "M",
+   "Prog Code": "ESCO",
+   "GPA": 286,
+   "Muni": "SAN JUAN",
+   "Año Cred": "6TO"
+ },
+ {
+   "Num Est": "841-09-4484",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 276,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-10-5262",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 259,
+   "Muni": "DORADO",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-11-5940",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "6TO"
+ },
+ {
+   "Num Est": "841-11-7270",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 299,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-12-7272",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 245,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-0185",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 236,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-13-1600",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 269,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-4940",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 338,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-6923",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 266,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-7400",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 301,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-13-7615",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 257,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-0676",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 247,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-1410",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 297,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-1420",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 192,
+   "Muni": "CIDRA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-14-1790",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 327,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-3205",
+   "Sexo": "F",
+   "Prog Code": "SINF",
+   "GPA": 271,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-3810",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 296,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-14-4600",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 258,
+   "Muni": "CAYEY",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-5275",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 281,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-6280",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 304,
+   "Muni": "BAYAMON",
+   "Año Cred": "6TN"
+ },
+ {
+   "Num Est": "841-14-6930",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 264,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-7030",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 262,
+   "Muni": "COROZAL",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-14-8200",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 284,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-9220",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 327,
+   "Muni": "BAYAMON",
+   "Año Cred": "6TO"
+ },
+ {
+   "Num Est": "841-14-9380",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 198,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-9431",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 336,
+   "Muni": "CAGUAS",
+   "Año Cred": "6TN"
+ },
+ {
+   "Num Est": "841-14-9940",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 366,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-0881",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 263,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-0882",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 299,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-15-0920",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 237,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-1830",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 273,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-2930",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 277,
+   "Muni": "CANOVANAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-3390",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 309,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-3630",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 292,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-3930",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 242,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-4165",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 295,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-5020",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 285,
+   "Muni": "CATANO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-5340",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 224,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-5490",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 264,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-5580",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 300,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-5680",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 212,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-15-6495",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 300,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-6510",
+   "Sexo": "M",
+   "Prog Code": "ESCO",
+   "GPA": 345,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-15-6540",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 295,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-6660",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 280,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-6880",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 268,
+   "Muni": "BAYAMON",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-15-7690",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 226,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-15-7760",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 253,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-7765",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 235,
+   "Muni": "COMERIO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-7790",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 200,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-8260",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 336,
+   "Muni": "GUAYNABO",
+   "Año Cred": "6TN"
+ },
+ {
+   "Num Est": "841-15-8265",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 267,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-8570",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 239,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-9800",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 190,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-0205",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 347,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-0380",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 274,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-0532",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 240,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-0650",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 281,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-1790",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 287,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-1827",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 383,
+   "Muni": "DORADO",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-16-1913",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 281,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-2300",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 336,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-2370",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 269,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-2400",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 281,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-2545",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 326,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-2790",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 305,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-2810",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 245,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-3010",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 288,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-3170",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 303,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-3180",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 282,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-3213",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 322,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-3220",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 318,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-3260",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 286,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-3760",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 285,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-16-4020",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 299,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-16-4225",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 264,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-4370",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 369,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-4400",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 276,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-4510",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 275,
+   "Muni": "MOROVIS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-4567",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 310,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-4570",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 318,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-4674",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 244,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-4680",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 281,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-4700",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 287,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-4802",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 267,
+   "Muni": "MOROVIS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5020",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 324,
+   "Muni": "JUNCOS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5050",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 299,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5114",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 287,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5385",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 313,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5710",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 333,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5760",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 281,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5770",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 305,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5880",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 313,
+   "Muni": "COMERIO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5965",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 297,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6210",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 338,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6270",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 297,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6280",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 297,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6405",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 270,
+   "Muni": "OROCOVIS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6430",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 331,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6675",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 318,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6720",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 291,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6955",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 298,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7030",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 286,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7051",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 280,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7360",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 264,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7450",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 286,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7661",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 313,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7690",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 307,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7805",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 307,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8085",
+   "Sexo": "M",
+   "Prog Code": "ESCO",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8170",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 273,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8220",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 313,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8570",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 251,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-8590",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 397,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8824",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 246,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-9138",
+   "Sexo": "F",
+   "Prog Code": "SINF",
+   "GPA": 263,
+   "Muni": "FAJARDO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-9260",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 242,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-9350",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 344,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-16-9630",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 313,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0055",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 220,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-0074",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 359,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0129",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 271,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0248",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 319,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0264",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 298,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0316",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 263,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0331",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 276,
+   "Muni": "MANATI",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0532",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 334,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0571",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 316,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0614",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 377,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0735",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 286,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-0781",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 279,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0826",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 326,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0933",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0948",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 317,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-0958",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 334,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1061",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 286,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1067",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 294,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1084",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 306,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1304",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 329,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1372",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 310,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1571",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 250,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1669",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 315,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1752",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 334,
+   "Muni": "OROCOVIS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1760",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 307,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1935",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 237,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1938",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 309,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1992",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 325,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2020",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 267,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-2191",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 241,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2209",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 275,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-17-2343",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 286,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2417",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 295,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2450",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 321,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2457",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 234,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2497",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 296,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-2510",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 330,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-2575",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 305,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-2614",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 272,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-2679",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 343,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-2787",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 315,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2837",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 286,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2916",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 214,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-2940",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 315,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2976",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 275,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3029",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 317,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3033",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 287,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3077",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 315,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-3113",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 260,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-3149",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 229,
+   "Muni": "FAJARDO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3175",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 297,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3188",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 387,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-3371",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 304,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3393",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 316,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3418",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 229,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-3456",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 331,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3487",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 301,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3504",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 324,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-3519",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 315,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3602",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 349,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3671",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 299,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3998",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 314,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4099",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 368,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4125",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 209,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-4149",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 298,
+   "Muni": "RIO GRANDE",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-4152",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 332,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4240",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 260,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4296",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 338,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4347",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 342,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4512",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 299,
+   "Muni": "COMERIO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4534",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 385,
+   "Muni": "MOROVIS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4623",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 325,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4665",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 382,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4679",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 256,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4705",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 280,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4832",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 248,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-4870",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 260,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4936",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 244,
+   "Muni": "GUAYAMA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4961",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5003",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 296,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5037",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 340,
+   "Muni": "CIDRA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5101",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 347,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5167",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 356,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5238",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 324,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5390",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 323,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-5392",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 298,
+   "Muni": "BAYAMON",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-17-5401",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 232,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5606",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 339,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5607",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 303,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5814",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 333,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5850",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 281,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5852",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 290,
+   "Muni": "CAGUAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5861",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 334,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5897",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 246,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5932",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 350,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5940",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 198,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-6097",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 319,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6148",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 355,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6188",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 322,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6197",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 295,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6203",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 237,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-6243",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 235,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6322",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 328,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6411",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 273,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6424",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 331,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6447",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 271,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-6512",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 341,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6575",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 343,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6583",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 275,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6643",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 282,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6710",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 271,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6716",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 270,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-6743",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 337,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6981",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 344,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-7012",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 311,
+   "Muni": "BARCELONETA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7060",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 267,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7163",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 269,
+   "Muni": "CAYEY",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-7171",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 266,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-7196",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 348,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7338",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 296,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7374",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 230,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-7391",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 285,
+   "Muni": "CIDRA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7457",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 365,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7518",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 255,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-7558",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 294,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7584",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 300,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-7674",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 289,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7739",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 286,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7763",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 400,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7821",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 303,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7826",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 288,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7881",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 253,
+   "Muni": "ISABELA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7991",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 299,
+   "Muni": "MANATI",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8029",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 244,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8049",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 225,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-8059",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 276,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8228",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8245",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 246,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8375",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 331,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8520",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 344,
+   "Muni": "MOROVIS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8528",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 221,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-8598",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 364,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8671",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 383,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8701",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 328,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8716",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 387,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8806",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 287,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8843",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 337,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8988",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 332,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-9174",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 322,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9240",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 323,
+   "Muni": "BAYAMON",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-17-9332",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 396,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-9401",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 274,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9472",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 270,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-9495",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 272,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9496",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 271,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-9527",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 297,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9730",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 369,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9850",
+   "Sexo": "F",
+   "Prog Code": "SINF",
+   "GPA": 296,
+   "Muni": "CAGUAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-9952",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 278,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9997",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 275,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0021",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 265,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0063",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 282,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0120",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 369,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0125",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 294,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0156",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 310,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0178",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 318,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0219",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 350,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0223",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 394,
+   "Muni": "MOROVIS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0241",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 273,
+   "Muni": "CAGUAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0249",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 336,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0259",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 353,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0301",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 346,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0312",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 282,
+   "Muni": "LUQUILLO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0350",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 314,
+   "Muni": "CAGUAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0358",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 313,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0370",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 299,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0403",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 267,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0413",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 205,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-0432",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 371,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0513",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 379,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0559",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 192,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0560",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 327,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0569",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 315,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0577",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 329,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0581",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 295,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0609",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 320,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0629",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 252,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0652",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 303,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0708",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 326,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0721",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 317,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0726",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 341,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0757",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 340,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0794",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 226,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0812",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 287,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0819",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 321,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0821",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 256,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-0863",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 303,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0873",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 346,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0890",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 259,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0894",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 315,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0904",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 299,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0913",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 345,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0968",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 262,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0991",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 317,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1003",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 320,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1066",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 293,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1140",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 349,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1159",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 359,
+   "Muni": "BARRANQUITAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1199",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 331,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1209",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 372,
+   "Muni": "RIO GRANDE",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1249",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 241,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1270",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1312",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 313,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1320",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 352,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1326",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 369,
+   "Muni": "SABANA SECA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1329",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 289,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1344",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 225,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1346",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 313,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1401",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 305,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1430",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 382,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1437",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 253,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1475",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 359,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1478",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 293,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1482",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 279,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1483",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 275,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1492",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 305,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1497",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 330,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1509",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 320,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-1510",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 313,
+   "Muni": "YABUCOA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1526",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 343,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1536",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 230,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-1568",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 400,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-18-1577",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 348,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1582",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 340,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1583",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 279,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-1589",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 351,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1600",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 381,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1616",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 309,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1623",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 190,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-1628",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 346,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1698",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 315,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1756",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 222,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1801",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 312,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1869",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 269,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1883",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 330,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-1902",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 391,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1953",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 289,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1969",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 329,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2041",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 354,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2077",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 314,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2116",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 272,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2159",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 328,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2168",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 324,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2248",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 286,
+   "Muni": "BARRANQUITAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2260",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 242,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2284",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 276,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2293",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 218,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-2313",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 389,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2418",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 300,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2504",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 360,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2516",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 381,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2577",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 321,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2579",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 343,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2581",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 344,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2626",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 279,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2668",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 352,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2695",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 334,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2715",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 339,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2751",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 301,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2756",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 280,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2811",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 397,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2837",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 336,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2891",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 329,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2896",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 263,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2903",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 290,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2959",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 240,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3007",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 377,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3042",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 269,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3043",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 287,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3047",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 353,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-3052",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 326,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3069",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 321,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-3259",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 233,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3301",
+   "Sexo": "M",
+   "Prog Code": "ESCO",
+   "GPA": 313,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3362",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 319,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3402",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 293,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-3416",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 262,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-3417",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 220,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3464",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 310,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-3488",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 328,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3550",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 341,
+   "Muni": "MANATI",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3574",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 347,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-3592",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 337,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3603",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 275,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-3619",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 374,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-3688",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 249,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3720",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 293,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3729",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 255,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3791",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 203,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-3894",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 352,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3957",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 327,
+   "Muni": "CAGUAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3968",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 252,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-3980",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 296,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4083",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 336,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4128",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 384,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4132",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 356,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4142",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 259,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4186",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 331,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4214",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 363,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4231",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 343,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4257",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 359,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4285",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 373,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4313",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 341,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4326",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 387,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4343",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 329,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4366",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4369",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 227,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4535",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 359,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4570",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 369,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4573",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 395,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4580",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 282,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4582",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 340,
+   "Muni": "CAGUAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4635",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 252,
+   "Muni": "FAJARDO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4658",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 367,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4683",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 222,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-4697",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 347,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4767",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 333,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4861",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 387,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4878",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 276,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4890",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 305,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5008",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 316,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5056",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 397,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5135",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 299,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5192",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 328,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5302",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 274,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5413",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 313,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5415",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 279,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5443",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 274,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5446",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 310,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5545",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 293,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5620",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 282,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5637",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 341,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5675",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 263,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-5686",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 348,
+   "Muni": "CATANO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5702",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 366,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5703",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 310,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5721",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 342,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5742",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 199,
+   "Muni": "LAS PIEDRAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-5743",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 322,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5790",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 338,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5859",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 277,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5869",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 349,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5874",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 357,
+   "Muni": "CAGUAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-5904",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 218,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5931",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 289,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-5942",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 337,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5967",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 280,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6024",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 360,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6052",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 305,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6074",
+   "Sexo": "F",
+   "Prog Code": "SINF",
+   "GPA": 323,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6105",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 347,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6134",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 288,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6145",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 231,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6158",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 271,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6172",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 247,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6239",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 237,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-6295",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 316,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6341",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 346,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6379",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 330,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6389",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 242,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-6448",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 361,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6457",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 281,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6469",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 265,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6491",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 338,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6582",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 257,
+   "Muni": "CAGUAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6615",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 350,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6685",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 400,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6700",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 340,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6736",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 274,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6737",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 288,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6741",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 276,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-6745",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 344,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6754",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 370,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6813",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 315,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6922",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 273,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6937",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 330,
+   "Muni": "MANATI",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6948",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 355,
+   "Muni": "MANATI",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-6969",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 299,
+   "Muni": "PONCE",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6994",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 279,
+   "Muni": "CIDRA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-7018",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 299,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7027",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 312,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7066",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 331,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7079",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 309,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7089",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 347,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7278",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 322,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7290",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 333,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-7294",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 283,
+   "Muni": "CAGUAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7305",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 258,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-7466",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 378,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-7490",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 353,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-7513",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 273,
+   "Muni": "CAGUAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-7525",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 327,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-7610",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 287,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7681",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 249,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-7761",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 283,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7770",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 336,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7820",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 324,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7838",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 372,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7839",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 328,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7918",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 255,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7919",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 249,
+   "Muni": "CIDRA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7923",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 316,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-7990",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 264,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7991",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 303,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8001",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 296,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8011",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 250,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8031",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 354,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8048",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 313,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8065",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 337,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8075",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 315,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8135",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 319,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8147",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 340,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-18-8157",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 362,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8173",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 313,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8175",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 298,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8258",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 317,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8277",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 307,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-8365",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 287,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8389",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 332,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8426",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 261,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8461",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 321,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8481",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 316,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8657",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 369,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8718",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 291,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8726",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 304,
+   "Muni": "CANOVANAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8736",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 371,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8765",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8792",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 291,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8798",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 375,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8808",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 357,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-8933",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 349,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8951",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 236,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-8982",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 311,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8996",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 249,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8998",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 347,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9011",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 306,
+   "Muni": "MOROVIS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9037",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 282,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9063",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 324,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9081",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 319,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9092",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 320,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9143",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 235,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-9155",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 276,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9182",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 362,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9238",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 307,
+   "Muni": "COMERIO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9260",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 400,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9297",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 292,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9350",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 373,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9355",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 339,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9376",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 350,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9383",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 357,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9397",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 338,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9415",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 208,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9451",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 353,
+   "Muni": "HUMACAO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9524",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 384,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9560",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 386,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9603",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 216,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-9608",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 318,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9622",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 335,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9766",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 319,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9804",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 254,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9807",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 271,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9820",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 331,
+   "Muni": "CANOVANAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9832",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 351,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9838",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 380,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9853",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 294,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9875",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 337,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9902",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9906",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 270,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-9947",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 331,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9953",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 365,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-19-0026",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 338,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0034",
+   "Sexo": "M",
+   "Prog Code": "ESCO",
+   "GPA": 343,
+   "Muni": "CAGUAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0167",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 288,
+   "Muni": "PONCE",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0183",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 318,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0184",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 229,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0195",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 347,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0198",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 289,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0218",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 282,
+   "Muni": "OROCOVIS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0257",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 276,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0276",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 238,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0302",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 261,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0305",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 291,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0332",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 177,
+   "Muni": "MANATI",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0360",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 305,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0381",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 262,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0417",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 379,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0445",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 361,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0460",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 322,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0531",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 294,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0541",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 298,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0597",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 289,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0619",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 336,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0623",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 400,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0660",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 317,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0662",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 258,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0670",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 236,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0694",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 231,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0733",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 321,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0801",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 366,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0807",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 267,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0825",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 298,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0828",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 394,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0922",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 326,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0934",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 321,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0982",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 384,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0998",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 377,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1023",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 293,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1046",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 323,
+   "Muni": "SABANA HOYOS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1072",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 281,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1128",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1132",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 371,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1169",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 270,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1178",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 363,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1236",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 312,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1337",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 311,
+   "Muni": "CIDRA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1366",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 388,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1371",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 379,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1376",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 383,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1409",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 305,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1490",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 318,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1497",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 331,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1594",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 339,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1617",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 317,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1624",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 323,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1639",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 340,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1660",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 266,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1692",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 350,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1716",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 395,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1734",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 267,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1749",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 348,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1752",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 253,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1769",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 316,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1783",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 368,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1817",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 293,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1863",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 290,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1879",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 283,
+   "Muni": "MOROVIS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1903",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 400,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1907",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 338,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1928",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 277,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1933",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 368,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1937",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 345,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1938",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 291,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1940",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 366,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1946",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 314,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1976",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 278,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1984",
+   "Sexo": "",
+   "Prog Code": "EFEE",
+   "GPA": 305,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1988",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 276,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2075",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 258,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2116",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 308,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2190",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 331,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2274",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 297,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2286",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 345,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2300",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 339,
+   "Muni": "RIO GRANDE",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2305",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 271,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2313",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 352,
+   "Muni": "RIO GRANDE",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2316",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 293,
+   "Muni": "NAGUABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2419",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 309,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2478",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 236,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2508",
+   "Sexo": "F",
+   "Prog Code": "SINF",
+   "GPA": 309,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2510",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 290,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2564",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 312,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2571",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 317,
+   "Muni": "BARRANQUITAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2574",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 339,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2592",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 336,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2630",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 400,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2646",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 316,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2688",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 278,
+   "Muni": "CIALES",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2716",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 293,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2723",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 357,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2767",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 367,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2782",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 370,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2825",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 326,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2829",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 233,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2846",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 311,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2879",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 310,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2914",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 276,
+   "Muni": "CAMUY",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2940",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 320,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2946",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 353,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2989",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 327,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3032",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 364,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3034",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 329,
+   "Muni": "LUQUILLO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3063",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 300,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3091",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 194,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3153",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 302,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3197",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 343,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3217",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 360,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3277",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 286,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3299",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 330,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3317",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 252,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3382",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 281,
+   "Muni": "PUERTO REAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3392",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 285,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3418",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 400,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3527",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 298,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3562",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 295,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3563",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 307,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3607",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 289,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3640",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 246,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3655",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 338,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3657",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 322,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3696",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 251,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3756",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 332,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3757",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 309,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3785",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 329,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3819",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 317,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3875",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 280,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3878",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 304,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3892",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 344,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-3913",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 353,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3934",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 286,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3953",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 236,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3972",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 289,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3977",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 243,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3997",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 306,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4042",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 349,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4046",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 316,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4075",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 292,
+   "Muni": "JUNCOS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4076",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 284,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4080",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 233,
+   "Muni": "GURABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4109",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 247,
+   "Muni": "GUAYANBO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4120",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 276,
+   "Muni": "BARRANQUITAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4125",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 342,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4136",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 256,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4137",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 335,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4153",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 268,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4164",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 329,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4170",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 362,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4180",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 354,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4204",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 297,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4224",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 366,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4241",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 291,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4249",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 307,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4311",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 355,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4352",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 285,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4384",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 327,
+   "Muni": "CIDRA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4410",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 352,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4475",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 358,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4476",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 249,
+   "Muni": "RIO GRANDE",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4494",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 279,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4509",
+   "Sexo": "F",
+   "Prog Code": "SINF",
+   "GPA": 295,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4545",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 282,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4558",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 322,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4581",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 377,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4612",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 335,
+   "Muni": "CIDRA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4623",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 255,
+   "Muni": "FAJARDO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4710",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 311,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4739",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 394,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4749",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 300,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4770",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 344,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4783",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 251,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4836",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 361,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4864",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4873",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 361,
+   "Muni": "BAYAMON",
+   "Año Cred": "SNB"
+ },
+ {
+   "Num Est": "841-19-4927",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 361,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-4935",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 344,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4955",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 290,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5010",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 336,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5081",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 365,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5100",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 300,
+   "Muni": "GURABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5134",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 400,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5136",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 304,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5154",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 331,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5172",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 258,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5178",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 392,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5181",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 331,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5189",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 189,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5194",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 382,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5216",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 328,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5236",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 235,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5266",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 269,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5269",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 328,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5277",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 372,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5292",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 241,
+   "Muni": "HATILLO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5309",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 379,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5319",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 206,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5336",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 333,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5370",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 342,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5373",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 365,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5422",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 335,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5426",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 347,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5440",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 365,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5443",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 343,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5573",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5595",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 293,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5613",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 331,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5630",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 384,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5739",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 281,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5744",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 319,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5823",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 354,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5843",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 347,
+   "Muni": "COMERIO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5867",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 290,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5876",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 268,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5910",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 346,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5923",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 303,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5937",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 328,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5938",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 376,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5947",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 295,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5956",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 230,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5960",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 297,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5989",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 347,
+   "Muni": "MOROVIS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6009",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 332,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6024",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 268,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6032",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 306,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6035",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 288,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6077",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 324,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6158",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 341,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6159",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 371,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6174",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 355,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6187",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 305,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6196",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 304,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6206",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 290,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6268",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 327,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6339",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 221,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6366",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 366,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6374",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 395,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6387",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 361,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6430",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 389,
+   "Muni": "BARRANQUITAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6451",
+   "Sexo": "F",
+   "Prog Code": "SICI",
+   "GPA": 387,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6522",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 296,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6548",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 317,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6571",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 305,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6679",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 282,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6704",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 339,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6739",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 241,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6758",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 337,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6807",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 280,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6848",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 303,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6884",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 299,
+   "Muni": "COMERIO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6901",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 365,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-6902",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 363,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6926",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 314,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6939",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 266,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6946",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 280,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6988",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6990",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 289,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7031",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 293,
+   "Muni": "SABANA SECA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7049",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 293,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7079",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 359,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7095",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 394,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7106",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 264,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7108",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 241,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7139",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 313,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7153",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 353,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7156",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 343,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7161",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 379,
+   "Muni": "RIO GRANDE",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7170",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 258,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7239",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 300,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7258",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 380,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7293",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 354,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7312",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 302,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7362",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 338,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7366",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 338,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7405",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 227,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7425",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 248,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7452",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 360,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7458",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 326,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7492",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 382,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7512",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 318,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7566",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 270,
+   "Muni": "BARRANQUITAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7659",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 320,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7689",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 400,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7693",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 261,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7706",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 356,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7725",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 319,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7780",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 250,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7836",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 320,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7841",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 291,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7908",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 326,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7982",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 342,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7997",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 321,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8039",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 275,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8094",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 340,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8155",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 363,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8160",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 289,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8163",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 326,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8200",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 341,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8234",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 326,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8253",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 338,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8271",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 292,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8320",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 305,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8334",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 336,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8339",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 368,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8354",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 391,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8384",
+   "Sexo": "",
+   "Prog Code": "BIOG",
+   "GPA": 235,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8407",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 354,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8458",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 323,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8473",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 373,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8542",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 316,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8548",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 250,
+   "Muni": "OROCOVIS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8559",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 349,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8562",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 331,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8590",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 318,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8633",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 379,
+   "Muni": "MANATI",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8659",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 355,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8679",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 375,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8702",
+   "Sexo": "",
+   "Prog Code": "TIEL",
+   "GPA": 209,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8719",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 270,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8722",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 370,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8765",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 221,
+   "Muni": "CANOVANAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8817",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 313,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8848",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 369,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8903",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 327,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-8931",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8933",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 317,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8935",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 363,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8947",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 279,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9012",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 316,
+   "Muni": "LOIZA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9046",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 312,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9086",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 287,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9094",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 344,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9153",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 343,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9160",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 268,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9179",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 369,
+   "Muni": "OROCOVIS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9206",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 376,
+   "Muni": "HATILLO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9241",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 355,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9263",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 235,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9271",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 349,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9291",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 358,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9302",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 345,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9355",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 381,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9365",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 329,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9381",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 309,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9439",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 236,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9441",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 267,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9495",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 288,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9557",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 354,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9597",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 303,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9614",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 329,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9624",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 383,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9675",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 316,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9758",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 382,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9764",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 262,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9812",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 260,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9825",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 369,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9834",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 358,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9840",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 298,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9910",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 294,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9929",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 258,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9944",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 356,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-0094",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 303,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-0265",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 273,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-0413",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 338,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-0595",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 375,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-0648",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 383,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-0808",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 346,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-0896",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 332,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1049",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 357,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1229",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 350,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1277",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 373,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1547",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 317,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1584",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 343,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1665",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 291,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1759",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 277,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1833",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-1962",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 355,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2002",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 342,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2032",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 318,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2047",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 271,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2105",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 310,
+   "Muni": "HUMACAO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2385",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2585",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 337,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2734",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 326,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2906",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 309,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3069",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 355,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3183",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 305,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3187",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 312,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3282",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 309,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3359",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 314,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3500",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 344,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3645",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 291,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3676",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 314,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3797",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 309,
+   "Muni": "OROCOVIS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3835",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 371,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3891",
+   "Sexo": "",
+   "Prog Code": "SICI",
+   "GPA": 331,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3897",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 295,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4155",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 309,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4177",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 279,
+   "Muni": "LAS PIEDRAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4215",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 316,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4217",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 365,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4301",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 262,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4306",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 384,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4578",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 356,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4660",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 313,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4795",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 388,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4820",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 297,
+   "Muni": "LAS PIEDRAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4966",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 336,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-5110",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 400,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-5154",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 347,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-5226",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 374,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-5496",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 294,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-6266",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 336,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-6315",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 386,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-6329",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 335,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-6362",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 325,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-6469",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 364,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-6649",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 286,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-6720",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 328,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7025",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 388,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7229",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 383,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7394",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 355,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7476",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 334,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7529",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 373,
+   "Muni": "COMERIO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7758",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 311,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7799",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 288,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7875",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 318,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8022",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 382,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8213",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 362,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8297",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 348,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8449",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 309,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8516",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 368,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8571",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8701",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 382,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8711",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 274,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8716",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 321,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8885",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 300,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9022",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 309,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9041",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 267,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9207",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 340,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9258",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 364,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9264",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 350,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9510",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 400,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9620",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 315,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9653",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 259,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9792",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 284,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9952",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 265,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9982",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 341,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-80-3232",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 250,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-95-3936",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 253,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-96-0351",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 267,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-97-0186",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 326,
+   "Muni": "BAYAMON",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-99-5423",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 234,
+   "Muni": "CATANO",
+   "Año Cred": "SNB"
+ },
+ {
+   "Num Est": "841-99-5649",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 291,
+   "Muni": "BAYAMON",
+   "Año Cred": "6TO"
+ },
+ {
+   "Num Est": "841-07-2709",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 209,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-07-5499",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 372,
+   "Muni": "TOA BAJA",
+   "Año Cred": "6TO"
+ },
+ {
+   "Num Est": "841-08-0977",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 298,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-09-3015",
+   "Sexo": "M",
+   "Prog Code": "ESCO",
+   "GPA": 271,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-11-4260",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 389,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-11-5164",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 308,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-11-5180",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 236,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-11-5860",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 153,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-11-7255",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 244,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-12-3069",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 224,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-12-6813",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 299,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-12-7218",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 227,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CNB"
+ },
+ {
+   "Num Est": "841-13-0970",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 280,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-2350",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 246,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-3940",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 284,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-5095",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 265,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-6360",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 270,
+   "Muni": "DORADO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-6440",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 293,
+   "Muni": "YAUCO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-6750",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 274,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-13-7720",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 230,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-14-0750",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 285,
+   "Muni": "CAYEY",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-1273",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 256,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-3957",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 288,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-4390",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 255,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-5480",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 237,
+   "Muni": "BARRANQUITAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-5874",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 282,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-6365",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 338,
+   "Muni": "TOA ALTA",
+   "Año Cred": "6TO"
+ },
+ {
+   "Num Est": "841-14-7140",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 275,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-7520",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 294,
+   "Muni": "CAGUAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-8330",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 275,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-14-8530",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 266,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-0087",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 339,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-0790",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 282,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-15-1650",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 269,
+   "Muni": "MOROVIS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-1716",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 303,
+   "Muni": "BAYAMON",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-15-2320",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 327,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-2810",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 191,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-15-3750",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 310,
+   "Muni": "JUNCOS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-4330",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 249,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-4740",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 302,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-5662",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 229,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-15-6220",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 216,
+   "Muni": "CANOVANAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-15-6645",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 232,
+   "Muni": "ISABELA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-6860",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 300,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-7100",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 355,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-7140",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 254,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-7235",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 342,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-8770",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 267,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-8840",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 243,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-8895",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 350,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-9150",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 247,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-15-9230",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 238,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-15-9820",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 334,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-9890",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 224,
+   "Muni": "BAYAMON",
+   "Año Cred": "SNB"
+ },
+ {
+   "Num Est": "841-15-9920",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 252,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-15-9940",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 257,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-0235",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 260,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-0880",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 269,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-0960",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 319,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-1195",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 269,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-1490",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 256,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-1768",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 282,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-2090",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 249,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-2335",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 288,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-16-2580",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 345,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-2990",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 221,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-16-3110",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 303,
+   "Muni": "CATANO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-3490",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 196,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-16-3860",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 356,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5035",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 222,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5440",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 278,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-5950",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 241,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6065",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 322,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6120",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 367,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6130",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 262,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6174",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 341,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6420",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 261,
+   "Muni": "CANOVANAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6530",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 294,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-6800",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 315,
+   "Muni": "BAYAMON",
+   "Año Cred": "6TO"
+ },
+ {
+   "Num Est": "841-16-6950",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 253,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7810",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 301,
+   "Muni": "CATANO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-7880",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 295,
+   "Muni": "CATANO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8040",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 310,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8480",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 314,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8540",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 278,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8770",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 317,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8850",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-8870",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 247,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-16-9250",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 291,
+   "Muni": "NARANJITO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0001",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 344,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-0234",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 293,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0258",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 364,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0559",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 268,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0768",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 325,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-0873",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 322,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0908",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 320,
+   "Muni": "SABANA SECA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0922",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 319,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-0935",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 349,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1063",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 298,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1097",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 309,
+   "Muni": "GURABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1453",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 247,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-1463",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 324,
+   "Muni": "GURABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1588",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 217,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-1861",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 341,
+   "Muni": "GURABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-1980",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 359,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2046",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 292,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2703",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 351,
+   "Muni": "FAJARDO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2758",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 301,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-2975",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 341,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3106",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 356,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3301",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 359,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3410",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 339,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3586",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 323,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3614",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 264,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-3659",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 221,
+   "Muni": "DORADO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-3683",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 360,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-3924",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 165,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-3950",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 279,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4030",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 358,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4250",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 245,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-4796",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 256,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-4968",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 329,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-4988",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 326,
+   "Muni": "CAGUAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5100",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 324,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-5625",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 267,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-5875",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 262,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-5973",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 224,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-17-6122",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 267,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6435",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 332,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6685",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 276,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6718",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 299,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-6855",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 296,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-6943",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 277,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7152",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 228,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-7183",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 230,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7247",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 348,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7300",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 272,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-7304",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 276,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-7790",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 333,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8094",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 279,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8227",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 359,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8263",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 343,
+   "Muni": "GUAYNABO",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8354",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 238,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-8679",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 320,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-8902",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 296,
+   "Muni": "CAGUAS",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9205",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 286,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9290",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 345,
+   "Muni": "SAN JUAN",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9324",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 325,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9327",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 234,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-17-9420",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 354,
+   "Muni": "TOA BAJA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9640",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 374,
+   "Muni": "CAROLINA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-17-9954",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 306,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0407",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 258,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-0496",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 231,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-0575",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 364,
+   "Muni": "COROZAL",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-0722",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 230,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-0976",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 247,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TNB"
+ },
+ {
+   "Num Est": "841-18-1217",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 300,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1362",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 292,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1391",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 304,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1695",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 309,
+   "Muni": "TOA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-1818",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 353,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-2006",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 248,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2565",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 282,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-2893",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 258,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3064",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 294,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3255",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 326,
+   "Muni": "SABANA SECA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-3289",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 303,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3412",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 238,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-3724",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 342,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-3843",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 317,
+   "Muni": "GUAYNABO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4173",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 343,
+   "Muni": "TOA ALTA",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-4429",
+   "Sexo": "F",
+   "Prog Code": "SICI",
+   "GPA": 245,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-4508",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 173,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-5005",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 300,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-5238",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 239,
+   "Muni": "CAYEY",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6045",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 205,
+   "Muni": "PONCE",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6092",
+   "Sexo": "F",
+   "Prog Code": "SINF",
+   "GPA": 293,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6282",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 221,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-6570",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 269,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-6653",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 275,
+   "Muni": "CAROLINA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-7119",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 320,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-7175",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 257,
+   "Muni": "CAGUAS",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7199",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 300,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-7322",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 250,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-7330",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 220,
+   "Muni": "CIDRA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7583",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 233,
+   "Muni": "SAN JUAN",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7705",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 301,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-7723",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 261,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-7940",
+   "Sexo": "",
+   "Prog Code": "TIEL",
+   "GPA": 292,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-8017",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 275,
+   "Muni": "CATANO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8196",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 304,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8432",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 250,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-8564",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 252,
+   "Muni": "SAN LORENZO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8628",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 296,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8823",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 249,
+   "Muni": "CAROLINA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8831",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 277,
+   "Muni": "TOA ALTA",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8851",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 277,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-18-8931",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 207,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-18-9328",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 392,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-18-9690",
+   "Sexo": "F",
+   "Prog Code": "SICI",
+   "GPA": 315,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-0101",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 313,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0181",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 315,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0266",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 287,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0303",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 295,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0349",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 273,
+   "Muni": "ARROYO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0351",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 253,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0437",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0756",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 359,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0757",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 323,
+   "Muni": "VEGA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-0983",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 268,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1035",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 279,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1038",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 384,
+   "Muni": "MANATI",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1287",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 352,
+   "Muni": "NARANJITO",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1305",
+   "Sexo": "F",
+   "Prog Code": "TIEL",
+   "GPA": 290,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1351",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 322,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-1628",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 290,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1782",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 169,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1798",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 258,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-1934",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 368,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2073",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 295,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2110",
+   "Sexo": "M",
+   "Prog Code": "CCOM",
+   "GPA": 294,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2203",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 341,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2209",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 290,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-2667",
+   "Sexo": "M",
+   "Prog Code": "BIOG",
+   "GPA": 253,
+   "Muni": "RIO GRANDE",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2736",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 230,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2858",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 231,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-2945",
+   "Sexo": "F",
+   "Prog Code": "GERE",
+   "GPA": 316,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3029",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 319,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3046",
+   "Sexo": "M",
+   "Prog Code": "SINF",
+   "GPA": 310,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3255",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 296,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3539",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 290,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-3923",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 334,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4356",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 321,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4602",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 277,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-4949",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 228,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5026",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 369,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5135",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 270,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5342",
+   "Sexo": "F",
+   "Prog Code": "SICI",
+   "GPA": 257,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5363",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 211,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-5726",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 320,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-5984",
+   "Sexo": "M",
+   "Prog Code": "FINA",
+   "GPA": 308,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6224",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 204,
+   "Muni": "COROZAL",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6440",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 292,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6479",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 213,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6524",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 325,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6692",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 331,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6876",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 282,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-6971",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 288,
+   "Muni": "TRUJILLO ALTO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7004",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 195,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7251",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 281,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7270",
+   "Sexo": "F",
+   "Prog Code": "CONT",
+   "GPA": 332,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7278",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 270,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7389",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 279,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7416",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 271,
+   "Muni": "VEGA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7526",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 378,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-7541",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 316,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7609",
+   "Sexo": "F",
+   "Prog Code": "BHUM",
+   "GPA": 338,
+   "Muni": "LOIZA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7722",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 248,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7915",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 300,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-7920",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 356,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8051",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 303,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8230",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 314,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8309",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 350,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8433",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 181,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8618",
+   "Sexo": "F",
+   "Prog Code": "FINA",
+   "GPA": 273,
+   "Muni": "DORADO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8625",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 263,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8859",
+   "Sexo": "M",
+   "Prog Code": "EFEE",
+   "GPA": 272,
+   "Muni": "ARECIBO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-8982",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 307,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9129",
+   "Sexo": "F",
+   "Prog Code": "GEMA",
+   "GPA": 296,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9149",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 331,
+   "Muni": "COROZAL",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9157",
+   "Sexo": "M",
+   "Prog Code": "GERE",
+   "GPA": 243,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9225",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 284,
+   "Muni": "SABANA SECA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9482",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 319,
+   "Muni": "BAYAMON",
+   "Año Cred": "TER"
+ },
+ {
+   "Num Est": "841-19-9483",
+   "Sexo": "F",
+   "Prog Code": "CCOM",
+   "GPA": 344,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9507",
+   "Sexo": "",
+   "Prog Code": "FINA",
+   "GPA": 159,
+   "Muni": "CAGUAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9560",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 282,
+   "Muni": "AGUAS BUENAS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9647",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 341,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9652",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 223,
+   "Muni": "CATANO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-19-9731",
+   "Sexo": "M",
+   "Prog Code": "SICI",
+   "GPA": 345,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-2978",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 311,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-3864",
+   "Sexo": "M",
+   "Prog Code": "MERC",
+   "GPA": 292,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4182",
+   "Sexo": "M",
+   "Prog Code": "SOFI",
+   "GPA": 229,
+   "Muni": "NARANJITO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-4492",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 295,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-5083",
+   "Sexo": "F",
+   "Prog Code": "EFEE",
+   "GPA": 354,
+   "Muni": "TOA ALTA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-5417",
+   "Sexo": "M",
+   "Prog Code": "TIEL",
+   "GPA": 279,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-6769",
+   "Sexo": "F",
+   "Prog Code": "MERC",
+   "GPA": 382,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7023",
+   "Sexo": "M",
+   "Prog Code": "GEMA",
+   "GPA": 360,
+   "Muni": "OROCOVIS",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-7892",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 380,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8217",
+   "Sexo": "F",
+   "Prog Code": "ESCO",
+   "GPA": 342,
+   "Muni": "BAYAMON",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-8905",
+   "Sexo": "F",
+   "Prog Code": "SOFI",
+   "GPA": 261,
+   "Muni": "TOA BAJA",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9458",
+   "Sexo": "M",
+   "Prog Code": "BHUM",
+   "GPA": 303,
+   "Muni": "GUAYNABO",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-20-9953",
+   "Sexo": "F",
+   "Prog Code": "BIOG",
+   "GPA": 306,
+   "Muni": "SAN JUAN",
+   "Año Cred": "SEG"
+ },
+ {
+   "Num Est": "841-79-0561",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 271,
+   "Muni": "BAYAMON",
+   "Año Cred": "CUA"
+ },
+ {
+   "Num Est": "841-95-5281",
+   "Sexo": "M",
+   "Prog Code": "CONT",
+   "GPA": 313,
+   "Muni": "BAYAMON",
+   "Año Cred": "6TO"
+ }
+]

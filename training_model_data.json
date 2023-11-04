@@ -5764,7 +5764,7 @@
    "gender": "F",
    "prog_code": "BHUM",
    "gpa": 323,
-   "town_origin": "SABANA HOYOS",
+   "town_origin": "ARECIBO",
    "year_cred": "TER",
    "dropout": "N"
  },
@@ -6502,7 +6502,7 @@
    "gender": "M",
    "prog_code": "SINF",
    "gpa": 281,
-   "town_origin": "PUERTO REAL",
+   "town_origin": "FAJARDO",
    "year_cred": "SEG",
    "dropout": "N"
  },

@@ -664,7 +664,7 @@ Num Est,Año Est,Sexo,Depart Code,Depart Name,Prog Code,Prog Name,GPA,Muni,Año 
 841-19-0982,4,F,AE,Administración de Empresas,GERE,Gerencia,379,TOA ALTA,TER,Bachillerato,N
 841-19-0998,4,F,EF,Educación Física,EFEE,Educación Física Especial y E;emental,358,BAYAMON,CUA,Bachillerato,N
 841-19-1023,4,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,290,TOA BAJA,CUA,Bachillerato,N
-841-19-1046,4,F,CN,Biología,BHUM,Biología Enfoque Humano,317,SABANA HOYOS,CUA,Bachillerato,N
+841-19-1046,4,F,CN,Biología,BHUM,Biología Enfoque Humano,317,ARECIBO,CUA,Bachillerato,N
 841-19-1072,4,F,CN,Biología,BHUM,Biología Enfoque Humano,299,CAROLINA,CUA,Bachillerato,N
 841-19-1128,4,F,CN,Biología,BIOG,Biología General,286,BAYAMON,TER,Bachillerato,N
 841-19-1132,4,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,352,BAYAMON,CUA,Bachillerato,N
@@ -754,7 +754,7 @@ Num Est,Año Est,Sexo,Depart Code,Depart Name,Prog Code,Prog Name,GPA,Muni,Año 
 841-19-3277,4,F,CN,Biología,BHUM,Biología Enfoque Humano,260,BAYAMON,TER,Bachillerato,N
 841-19-3299,4,F,CN,Biología,BHUM,Biología Enfoque Humano,322,GUAYNABO,TER,Bachillerato,N
 841-19-3317,4,M,AE,Administración de Empresas,CONT,Contabilidad,257,BAYAMON,TER,Bachillerato,N
-841-19-3382,4,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,269,PUERTO REAL,TER,Bachillerato,N
+841-19-3382,4,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,269,FAJARDO,TER,Bachillerato,N
 841-19-3392,4,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,272,TOA ALTA,SEG,Bachillerato,N
 841-19-3418,4,F,AE,Administración de Empresas,FINA,Finanzas,400,NARANJITO,TER,Bachillerato,N
 841-19-3459,4,M,AA,Electrónica,TINF,Tecnología de la Ingeniería de la Información,322,CATANO,TER,Bachillerato,N

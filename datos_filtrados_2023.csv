@@ -1088,7 +1088,7 @@ Num Est,Año Est,Sexo,Depart Code,Depart Name,Prog Code,Prog Name,GPA,Muni,Año 
 841-19-1023,3,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,293,TOA BAJA,TER,Bachillerato
 841-19-1035,3,F,AE,Administración de Empresas,GERE,Gerencia,279,BAYAMON,SEG,Bachillerato
 841-19-1038,3,F,CN,Biología,BHUM,Biología Enfoque Humano,384,MANATI,TER,Bachillerato
-841-19-1046,3,F,CN,Biología,BHUM,Biología Enfoque Humano,323,SABANA HOYOS,TER,Bachillerato
+841-19-1046,3,F,CN,Biología,BHUM,Biología Enfoque Humano,323,ARECIBO,TER,Bachillerato
 841-19-1072,3,F,CN,Biología,BHUM,Biología Enfoque Humano,281,CAROLINA,TER,Bachillerato
 841-19-1128,3,F,CN,Biología,BIOG,Biología General,308,BAYAMON,SEG,Bachillerato
 841-19-1132,3,F,ED,Pedagogía,ESCO,Educación Preescolar y Elemental,371,BAYAMON,SEG,Bachillerato
@@ -1188,7 +1188,7 @@ Num Est,Año Est,Sexo,Depart Code,Depart Name,Prog Code,Prog Name,GPA,Muni,Año 
 841-19-3277,3,F,CN,Biología,BHUM,Biología Enfoque Humano,286,BAYAMON,TER,Bachillerato
 841-19-3299,3,F,CN,Biología,BHUM,Biología Enfoque Humano,330,GUAYNABO,TER,Bachillerato
 841-19-3317,3,M,AE,Administración de Empresas,CONT,Contabilidad,252,BAYAMON,SEG,Bachillerato
-841-19-3382,3,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,281,PUERTO REAL,SEG,Bachillerato
+841-19-3382,3,M,CC,Ciencias de Computadoras,SINF,Sistemas de Información,281,FAJARDO,SEG,Bachillerato
 841-19-3392,3,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,285,TOA ALTA,SEG,Bachillerato
 841-19-3418,3,F,AE,Administración de Empresas,FINA,Finanzas,400,NARANJITO,SEG,Bachillerato
 841-19-3527,3,M,CC,Ciencias de Computadoras,SICI,Ciencias de Computadoras,298,BAYAMON,SEG,Bachillerato

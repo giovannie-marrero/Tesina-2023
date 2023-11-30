@@ -217,47 +217,25 @@ function logisticFunction(gender, prog_code, gpa, town_origin, year_cred){
         year_cred_TNB = 1;
 
     try{
-        return 1 / (1 + Math.E ** (-(0.06135034619497988 + 0.0888*gender_M + -0.0195*prog_code_BIOG + 0.0393*prog_code_CCOM 
-            + -0.0081*prog_code_CONT + -0.0310*prog_code_EFEE + 0.0131*prog_code_ESCO + -0.0056*prog_code_FINA + 0.0124*prog_code_GEMA 
-            + 0.0250*prog_code_GERE + -0.0076*prog_code_MERC + 0.0091*prog_code_SICI + -0.0087*prog_code_SINF + 0.0072*prog_code_SOFI 
-            + 0.0664*prog_code_TIEL + 0.0036*town_origin_ARECIBO + 0.0036*town_origin_ARROYO + 0.0000*town_origin_BARCELONETA 
-            + -0.0021*town_origin_BARRANQUITAS + 0.0268*town_origin_BAYAMON + 0.0037*town_origin_CAGUAS + -0.0010*town_origin_CAMUY 
-            + 0.0063*town_origin_CANOVANAS + 0.0128*town_origin_CAROLINA + 0.0194*town_origin_CATANO + 0.0063*town_origin_CAYEY 
-            + -0.0010*town_origin_CIALES + -0.0030*town_origin_CIDRA + -0.0067*town_origin_COMERIO + -0.0049*town_origin_COROZAL 
-            + -0.0273*town_origin_DORADO + -0.0002*town_origin_FAJARDO + -0.0010*town_origin_GUAYAMA + -0.0010*town_origin_GUAYANBO 
-            + -0.0136*town_origin_GUAYNABO + 0.0054*town_origin_GURABO + -0.0019*town_origin_HATILLO + -0.0019*town_origin_HUMACAO 
-            + 0.0036*town_origin_ISABELA + 0.0017*town_origin_JUNCOS + -0.0029*town_origin_LAS_PIEDRAS + 0.0027*town_origin_LOIZA 
-            + -0.0019*town_origin_LUQUILLO + -0.0030*town_origin_MANATI + -0.0011*town_origin_MOROVIS + -0.0010*town_origin_NAGUABO 
-            + -0.0125*town_origin_NARANJITO + -0.0021*town_origin_OROCOVIS + 0.0027*town_origin_PONCE + -0.0021*town_origin_RIO_GRANDE 
-            + 0.0063*town_origin_SABANA_SECA + 0.0298*town_origin_SAN_JUAN + 0.0025*town_origin_SAN_LORENZO + -0.0191*town_origin_TOA_ALTA 
-            + 0.0186*town_origin_TOA_BAJA + -0.0036*town_origin_TRUJILLO_ALTO + 0.0064*town_origin_VEGA_ALTA + 0.0075*town_origin_VEGA_BAJA 
-            + -0.0010*town_origin_YABUCOA + 0.0036*town_origin_YAUCO + 0.0108*year_cred_6TO + -0.0021*year_cred_CNB + 0.1105*year_cred_CUA 
-            + -0.0085*year_cred_SEG + 0.0027*year_cred_SNB + -0.0619*year_cred_TER + 0.0117*year_cred_TNB)));
+        return 1 / (1 + Math.E ** (-(0.07333922759511774 +  + 0.0540*gender_M + -0.0163*prog_code_BIOG + 0.0581*prog_code_CCOM 
+            + -0.0215*prog_code_CONT + -0.0824*prog_code_EFEE + -0.0135*prog_code_ESCO + -0.0242*prog_code_FINA + 0.0052*prog_code_GEMA 
+            + -0.0028*prog_code_GERE + 0.0554*prog_code_MERC + 0.0423*prog_code_SICI + -0.0159*prog_code_SINF + -0.0028*prog_code_SOFI 
+            + 0.1399*prog_code_TIEL + 0.0000*town_origin_ARECIBO + 0.0000*town_origin_ARROYO + 0.0000*town_origin_BARCELONETA 
+            + 0.0000*town_origin_BARRANQUITAS + 0.0702*town_origin_BAYAMON + -0.0318*town_origin_CAGUAS + 0.0000*town_origin_CAMUY 
+            + 0.0000*town_origin_CANOVANAS + -0.0159*town_origin_CAROLINA + 0.0502*town_origin_CATANO + 0.0000*town_origin_CAYEY 
+            + 0.0000*town_origin_CIALES + -0.0079*town_origin_CIDRA + 0.0000*town_origin_COMERIO + 0.0132*town_origin_COROZAL 
+            + 0.0422*town_origin_DORADO + 0.0000*town_origin_FAJARDO + 0.0000*town_origin_GUAYAMA + 0.0000*town_origin_GUAYANBO 
+            + 0.0394*town_origin_GUAYNABO + 0.0291*town_origin_GURABO + -0.0080*town_origin_HATILLO + 0.0000*town_origin_HUMACAO 
+            + 0.0000*town_origin_ISABELA + 0.0000*town_origin_JUNCOS + 0.0000*town_origin_LAS_PIEDRAS + 0.0000*town_origin_LOIZA 
+            + 0.0000*town_origin_LUQUILLO + -0.0159*town_origin_MANATI + 0.0000*town_origin_MOROVIS + 0.0000*town_origin_NAGUABO 
+            + -0.0346*town_origin_NARANJITO + -0.0080*town_origin_OROCOVIS + 0.0000*town_origin_PONCE + 0.0000*town_origin_RIO_GRANDE 
+            + 0.0000*town_origin_SABANA_SECA + 0.0578*town_origin_SAN_JUAN + -0.0080*town_origin_SAN_LORENZO + -0.0346*town_origin_TOA_ALTA 
+            + -0.0426*town_origin_TOA_BAJA + -0.0319*town_origin_TRUJILLO_ALTO + -0.0159*town_origin_VEGA_ALTA + 0.0422*town_origin_VEGA_BAJA 
+            + 0.0000*town_origin_YABUCOA + 0.0000*town_origin_YAUCO + 0.0000*year_cred_6TO + 0.0000*year_cred_CNB + 0.0726*year_cred_CUA 
+            + 0.0994*year_cred_SEG + 0.0291*year_cred_SNB + -0.1277*year_cred_TER + 0.0000*year_cred_TNB)));
     } catch(err){
         return 0;
-    }
-
-    /*try{
-        return 1 / (1 + Math.E ** (-(2.501024525566896 + -0.1116*gender_M + -0.0596*prog_code_BIOG + 0.7420*prog_code_CCOM + -0.1107*prog_code_CONT 
-            + -0.6017*prog_code_EFEE + 0.3328*prog_code_ESCO + -0.2752*prog_code_FINA + 0.2757*prog_code_GEMA + 0.1627*prog_code_GERE 
-            + -0.0463*prog_code_MERC + 0.2803*prog_code_SICI + -0.4300*prog_code_SINF + 0.1173*prog_code_SOFI + 0.5298*prog_code_TIEL 
-            + 0.6774*town_origin_ARECIBO + 0.5603*town_origin_ARROYO + 0.0000*town_origin_BARCELONETA + -0.2567*town_origin_BARRANQUITAS 
-            + 0.0868*town_origin_BAYAMON + -0.0305*town_origin_CAGUAS + -0.1600*town_origin_CAMUY + 0.7156*town_origin_CANOVANAS 
-            + 0.3265*town_origin_CAROLINA + 0.7458*town_origin_CATANO + 0.5645*town_origin_CAYEY + -0.1656*town_origin_CIALES 
-            + -0.5815*town_origin_CIDRA + -0.8926*town_origin_COMERIO + -0.1187*town_origin_COROZAL + -1.0147*town_origin_DORADO 
-            + -0.1149*town_origin_FAJARDO + -0.3959*town_origin_GUAYAMA + -0.2659*town_origin_GUAYANBO + -0.1800*town_origin_GUAYNABO 
-            + 0.5166*town_origin_GURABO + -0.2623*town_origin_HATILLO + -0.3316*town_origin_HUMACAO + 0.4341*town_origin_ISABELA 
-            + 0.2421*town_origin_JUNCOS + -0.6598*town_origin_LAS_PIEDRAS + 0.5120*town_origin_LOIZA + -0.2566*town_origin_LUQUILLO 
-            + -0.4209*town_origin_MANATI + -0.0850*town_origin_MOROVIS + -0.2499*town_origin_NAGUABO + -0.1637*town_origin_NARANJITO 
-            + -0.2205*town_origin_OROCOVIS + 0.4452*town_origin_PONCE + 0.0480*town_origin_RIO_GRANDE + 0.8491*town_origin_SABANA_SECA 
-            + 0.0798*town_origin_SAN_JUAN + -0.1795*town_origin_SAN_LORENZO + -0.2989*town_origin_TOA_ALTA + 0.2430*town_origin_TOA_BAJA 
-            + -0.2820*town_origin_TRUJILLO_ALTO + 0.2077*town_origin_VEGA_ALTA + 0.2668*town_origin_VEGA_BAJA + -0.1236*town_origin_YABUCOA 
-            + 0.6305*town_origin_YAUCO + 0.9693*year_cred_6TO + -0.2639*year_cred_CNB + 0.1759*year_cred_CUA + -0.3515*year_cred_SEG 
-            + 0.3477*year_cred_SNB + -0.6139*year_cred_TER + 0.9251*year_cred_TNB)));
-    } catch(err){
-        return 0;
-    }*/
-    
+    }    
 }
 
 // Add a click event listener to the document body to handle clicks on dynamically generated table rows

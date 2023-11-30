@@ -14,115 +14,101 @@ function hidePopup() {
     popup.style.display = 'none';
 }
 
-function setGenderVariables(gender){
+function setGender(gender){
     if (gender == "M")
         gender_M = 1;
 }
 
-function setProgramCodeVariables(prog_code) {
-    const programCodeVariables = {
-        BIOG: 'prog_code_BIOG',
-        CCOM: 'prog_code_CCOM',
-        CONT: 'prog_code_CONT',
-        EFEE: 'prog_code_EFEE',
-        ESCO: 'prog_code_ESCO',
-        FINA: 'prog_code_FINA',
-        GEMA: 'prog_code_GEMA',
-        GERE: 'prog_code_GERE',
-        MERC: 'prog_code_MERC',
-        SICI: 'prog_code_SICI',
-        SINF: 'prog_code_SINF',
-        SOFI: 'prog_code_SOFI',
-        TIEL: 'prog_code_TIEL',
+function setProgramCode(prog_code) {
+    const programCodes = {
+        "BIOG": "prog_code_BIOG",
+        "CCOM": "prog_code_CCOM",
+        "CONT": "prog_code_CONT",
+        "EFEE": "prog_code_EFEE",
+        "ESCO": "prog_code_ESCO",
+        "FINA": "prog_code_FINA",
+        "GEMA": "prog_code_GEMA",
+        "GERE": "prog_code_GERE",
+        "MERC": "prog_code_MERC",
+        "SICI": "prog_code_SICI",
+        "SINF": "prog_code_SINF",
+        "SOFI": "prog_code_SOFI",
+        "TIEL": "prog_code_TIEL"
     };
 
-    const result = {};
-    const variable = programCodeVariables[prog_code];
-    if (variable) {
-        result[variable] = 1;
+    if (programCodes.hasOwnProperty(prog_code)) {
+        window[programCodes[prog_code]] = 1;
     }
-
-    return result;
 }
 
-
-function setTownOriginVariables(town_origin) {
-    const townOriginVariables = {
-        ARECIBO: 'town_origin_ARECIBO',
-        ARROYO: 'town_origin_ARROYO',
-        BARCELONETA: 'town_origin_BARCELONETA',
-        BARRANQUITAS: 'town_origin_BARRANQUITAS',
-        BAYAMON: 'town_origin_BAYAMON',
-        CAGUAS: 'town_origin_CAGUAS',
-        CAMUY: 'town_origin_CAMUY',
-        CANOVANAS: 'town_origin_CANOVANAS',
-        CAROLINA: 'town_origin_CAROLINA',
-        CATANO: 'town_origin_CATANO',
-        CAYEY: 'town_origin_CAYEY',
-        CIALES: 'town_origin_CIALES',
-        CIDRA: 'town_origin_CIDRA',
-        COMERIO: 'town_origin_COMERIO',
-        COROZAL: 'town_origin_COROZAL',
-        DORADO: 'town_origin_DORADO',
-        FAJARDO: 'town_origin_FAJARDO',
-        GUAYAMA: 'town_origin_GUAYAMA',
-        GUAYNABO: 'town_origin_GUAYNABO',
-        GURABO: 'town_origin_GURABO',
-        HATILLO: 'town_origin_HATILLO',
-        HUMACAO: 'town_origin_HUMACAO',
-        ISABELA: 'town_origin_ISABELA',
-        JUNCOS: 'town_origin_JUNCOS',
-        LAS_PIEDRAS: 'town_origin_LAS_PIEDRAS',
-        LOIZA: 'town_origin_LOIZA',
-        LUQUILLO: 'town_origin_LUQUILLO',
-        MANATI: 'town_origin_MANATI',
-        MOROVIS: 'town_origin_MOROVIS',
-        NAGUABO: 'town_origin_NAGUABO',
-        NARANJITO: 'town_origin_NARANJITO',
-        OROCOVIS: 'town_origin_OROCOVIS',
-        PONCE: 'town_origin_PONCE',
-        RIO_GRANDE: 'town_origin_RIO_GRANDE',
-        SABANA_GRANDE: 'town_origin_SABANA_GRANDE',
-        SAN_JUAN: 'town_origin_SAN_JUAN',
-        SAN_LORENZO: 'town_origin_SAN_LORENZO',
-        TOA_ALTA: 'town_origin_TOA_ALTA',
-        TOA_BAJA: 'town_origin_TOA_BAJA',
-        TRUJILLO_ALTO: 'town_origin_TRUJILLO_ALTO',
-        VEGA_ALTA: 'town_origin_VEGA_ALTA',
-        VEGA_BAJA: 'town_origin_VEGA_BAJA',
-        YABUCOA: 'town_origin_YABUCOA',
-        YAUCO: 'town_origin_YAUCO',
+function setTownOrigin(town_origin) {
+    const townOrigins = {
+        "ARECIBO": "town_origin_ARECIBO",
+        "ARROYO": "town_origin_ARROYO",
+        "BARCELONETA": "town_origin_BARCELONETA",
+        "BARRANQUITAS": "town_origin_BARRANQUITAS",
+        "BAYAMON": "town_origin_BAYAMON",
+        "CAGUAS": "town_origin_CAGUAS",
+        "CAMUY": "town_origin_CAMUY",
+        "CANOVANAS": "town_origin_CANOVANAS",
+        "CAROLINA": "town_origin_CAROLINA",
+        "CATANO": "town_origin_CATANO",
+        "CAYEY": "town_origin_CAYEY",
+        "CIALES": "town_origin_CIALES",
+        "CIDRA": "town_origin_CIDRA",
+        "COMERIO": "town_origin_COMERIO",
+        "COROZAL": "town_origin_COROZAL",
+        "DORADO": "town_origin_DORADO",
+        "FAJARDO": "town_origin_FAJARDO",
+        "GUAYAMA": "town_origin_GUAYAMA",
+        "GUAYNABO": "town_origin_GUAYNABO",
+        "GURABO": "town_origin_GURABO",
+        "HATILLO": "town_origin_HATILLO",
+        "HUMACAO": "town_origin_HUMACAO",
+        "ISABELA": "town_origin_ISABELA",
+        "JUNCOS": "town_origin_JUNCOS",
+        "LAS_PIEDRAS": "town_origin_LAS_PIEDRAS",
+        "LOIZA": "town_origin_LOIZA",
+        "LUQUILLO": "town_origin_LUQUILLO",
+        "MANATI": "town_origin_MANATI",
+        "MOROVIS": "town_origin_MOROVIS",
+        "NAGUABO": "town_origin_NAGUABO",
+        "NARANJITO": "town_origin_NARANJITO",
+        "OROCOVIS": "town_origin_OROCOVIS",
+        "PONCE": "town_origin_PONCE",
+        "RIO_GRANDE": "town_origin_RIO_GRANDE",
+        "SABANA_GRANDE": "town_origin_SABANA_GRANDE",
+        "SAN_JUAN": "town_origin_SAN_JUAN",
+        "SAN_LORENZO": "town_origin_SAN_LORENZO",
+        "TOA_ALTA": "town_origin_TOA_ALTA",
+        "TOA_BAJA": "town_origin_TOA_BAJA",
+        "TRUJILLO_ALTO": "town_origin_TRUJILLO_ALTO",
+        "VEGA_ALTA": "town_origin_VEGA_ALTA",
+        "VEGA_BAJA": "town_origin_VEGA_BAJA",
+        "YABUCOA": "town_origin_YABUCOA",
+        "YAUCO": "town_origin_YAUCO"
     };
 
-    const result = {};
-    const variable = townOriginVariables[town_origin];
-    if (variable) {
-        result[variable] = 1;
+    if (townOrigins.hasOwnProperty(town_origin)) {
+        window[townOrigins[town_origin]] = 1;
     }
-
-    return result;
 }
 
-function setYearCredVariable(year_cred) {
-    const yearCredVariables = {
-        '6TO': 'year_cred_6TO',
-        CNB: 'year_cred_CNB',
-        CUA: 'year_cred_CUA',
-        SEG: 'year_cred_SEG',
-        SNB: 'year_cred_SNB',
-        TER: 'year_cred_TER',
-        TNB: 'year_cred_TNB',
+function setYearCred(year_cred){
+    const yearCredMappings = {
+        "6TO": "year_cred_6TO",
+        "CNB": "year_cred_CNB",
+        "CUA": "year_cred_CUA",
+        "SEG": "year_cred_SEG",
+        "SNB": "year_cred_SNB",
+        "TER": "year_cred_TER",
+        "TNB": "year_cred_TNB"
     };
 
-    const result = {};
-    const variable = yearCredVariables[year_cred];
-    if (variable) {
-        result[variable] = 1;
+    if (yearCredMappings.hasOwnProperty(year_cred)) {
+        window[yearCredMappings[year_cred]] = 1;
     }
-
-    return result;
 }
-
 
 function logisticFunction(gender, prog_code, gpa, town_origin, year_cred){
     var gender_M=0;
@@ -192,10 +178,11 @@ function logisticFunction(gender, prog_code, gpa, town_origin, year_cred){
     var year_cred_TER=0;
     var year_cred_TNB=0;
 
-    setGenderVariables(gender);
-    setProgramCodeVariables(prog_code);
-    setTownOriginVariables(town_origin);
-    setYearCredVariable(year_cred);
+    setGender(gender);
+    setProgramCode(prog_code);
+    setTownOrigin(town_origin);
+    setYearCred(year_cred);
+    
 
     try{
         return 1 / (1 + Math.E ** (-(0.06135034619497988 + 0.0888*gender_M + -0.0195*prog_code_BIOG + 0.0393*prog_code_CCOM 

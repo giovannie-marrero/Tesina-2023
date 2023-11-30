@@ -217,7 +217,7 @@ function logisticFunction(gender, prog_code, gpa, town_origin, year_cred){
         year_cred_TNB = 1;
 
     try{
-        return 1 / (1 + Math.E ** (-(0.07333922759511774 +  + 0.0540*gender_M + -0.0163*prog_code_BIOG + 0.0581*prog_code_CCOM 
+        return 1 - 1 / (1 + Math.E ** (-(0.07333922759511774 +  + 0.0540*gender_M + -0.0163*prog_code_BIOG + 0.0581*prog_code_CCOM 
             + -0.0215*prog_code_CONT + -0.0824*prog_code_EFEE + -0.0135*prog_code_ESCO + -0.0242*prog_code_FINA + 0.0052*prog_code_GEMA 
             + -0.0028*prog_code_GERE + 0.0554*prog_code_MERC + 0.0423*prog_code_SICI + -0.0159*prog_code_SINF + -0.0028*prog_code_SOFI 
             + 0.1399*prog_code_TIEL + 0.0000*town_origin_ARECIBO + 0.0000*town_origin_ARROYO + 0.0000*town_origin_BARCELONETA 

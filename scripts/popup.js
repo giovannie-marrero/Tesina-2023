@@ -217,22 +217,24 @@ function logisticFunction(gender, prog_code, gpa, town_origin, year_cred){
         year_cred_TNB = 1;
 
     try{
-        return 1 - 1 / (1 + Math.E ** (-(0.07333922759511774 +  + 0.0540*gender_M + -0.0163*prog_code_BIOG + 0.0581*prog_code_CCOM 
-            + -0.0215*prog_code_CONT + -0.0824*prog_code_EFEE + -0.0135*prog_code_ESCO + -0.0242*prog_code_FINA + 0.0052*prog_code_GEMA 
-            + -0.0028*prog_code_GERE + 0.0554*prog_code_MERC + 0.0423*prog_code_SICI + -0.0159*prog_code_SINF + -0.0028*prog_code_SOFI 
-            + 0.1399*prog_code_TIEL + 0.0000*town_origin_ARECIBO + 0.0000*town_origin_ARROYO + 0.0000*town_origin_BARCELONETA 
-            + 0.0000*town_origin_BARRANQUITAS + 0.0702*town_origin_BAYAMON + -0.0318*town_origin_CAGUAS + 0.0000*town_origin_CAMUY 
-            + 0.0000*town_origin_CANOVANAS + -0.0159*town_origin_CAROLINA + 0.0502*town_origin_CATANO + 0.0000*town_origin_CAYEY 
-            + 0.0000*town_origin_CIALES + -0.0079*town_origin_CIDRA + 0.0000*town_origin_COMERIO + 0.0132*town_origin_COROZAL 
-            + 0.0422*town_origin_DORADO + 0.0000*town_origin_FAJARDO + 0.0000*town_origin_GUAYAMA + 0.0000*town_origin_GUAYANBO 
-            + 0.0394*town_origin_GUAYNABO + 0.0291*town_origin_GURABO + -0.0080*town_origin_HATILLO + 0.0000*town_origin_HUMACAO 
-            + 0.0000*town_origin_ISABELA + 0.0000*town_origin_JUNCOS + 0.0000*town_origin_LAS_PIEDRAS + 0.0000*town_origin_LOIZA 
-            + 0.0000*town_origin_LUQUILLO + -0.0159*town_origin_MANATI + 0.0000*town_origin_MOROVIS + 0.0000*town_origin_NAGUABO 
-            + -0.0346*town_origin_NARANJITO + -0.0080*town_origin_OROCOVIS + 0.0000*town_origin_PONCE + 0.0000*town_origin_RIO_GRANDE 
-            + 0.0000*town_origin_SABANA_SECA + 0.0578*town_origin_SAN_JUAN + -0.0080*town_origin_SAN_LORENZO + -0.0346*town_origin_TOA_ALTA 
-            + -0.0426*town_origin_TOA_BAJA + -0.0319*town_origin_TRUJILLO_ALTO + -0.0159*town_origin_VEGA_ALTA + 0.0422*town_origin_VEGA_BAJA 
-            + 0.0000*town_origin_YABUCOA + 0.0000*town_origin_YAUCO + 0.0000*year_cred_6TO + 0.0000*year_cred_CNB + 0.0726*year_cred_CUA 
-            + 0.0994*year_cred_SEG + 0.0291*year_cred_SNB + -0.1277*year_cred_TER + 0.0000*year_cred_TNB)));
+        
+        return 1 - 1 / (1 + Math.E ** (-(1.7110279210967863 +  + -0.0568*gender_M + -0.1802*prog_code_BIOG + 0.5384*prog_code_CCOM + 
+            -0.0759*prog_code_CONT + -0.4594*prog_code_EFEE + 0.2113*prog_code_ESCO + -0.5110*prog_code_FINA + 0.1137*prog_code_GEMA + 
+            0.2943*prog_code_GERE + -0.2082*prog_code_MERC + 0.3720*prog_code_SICI + -0.5438*prog_code_SINF + -0.2077*prog_code_SOFI + 
+            0.3847*prog_code_TIEL + 0.6038*town_origin_ARECIBO + 0.5272*town_origin_ARROYO + -0.1718*town_origin_BARCELONETA + 
+            -0.2447*town_origin_BARRANQUITAS + 0.1641*town_origin_BAYAMON + 0.0883*town_origin_CAGUAS + -0.1655*town_origin_CAMUY + 
+            0.3928*town_origin_CANOVANAS + 0.2337*town_origin_CAROLINA + 0.3953*town_origin_CATANO + -0.0471*town_origin_CAYEY + 
+            -0.1669*town_origin_CIALES + -0.6147*town_origin_CIDRA + -0.8215*town_origin_COMERIO + -0.2600*town_origin_COROZAL + 
+            -0.8096*town_origin_DORADO + -0.1105*town_origin_FAJARDO + -0.3453*town_origin_GUAYAMA + 0.0969*town_origin_GUAYNABO + 
+            0.8357*town_origin_GURABO + -0.2337*town_origin_HATILLO + -0.3086*town_origin_HUMACAO + 0.0000*town_origin_ISABELA + 
+            0.2496*town_origin_JUNCOS + -0.6606*town_origin_LAS_PIEDRAS + 0.4804*town_origin_LOIZA + -0.2281*town_origin_LUQUILLO + 
+            -0.2282*town_origin_MANATI + -0.6966*town_origin_MOROVIS + -0.2245*town_origin_NAGUABO + -0.0316*town_origin_NARANJITO + 
+            -0.1374*town_origin_OROCOVIS + 0.3314*town_origin_PONCE + 0.0462*town_origin_RIO_GRANDE + 0.9077*town_origin_SABANA_SECA + 
+            0.1338*town_origin_SAN_JUAN + 0.1760*town_origin_SAN_LORENZO + -0.2358*town_origin_TOA_ALTA + 0.0217*town_origin_TOA_BAJA + 
+            -0.2483*town_origin_TRUJILLO_ALTO + 0.4315*town_origin_VEGA_ALTA + 0.6386*town_origin_VEGA_BAJA + -0.1215*town_origin_YABUCOA +
+             0.5742*town_origin_YAUCO + 1.1755*year_cred_6TO + -0.5045*year_cred_CNB + 0.5146*year_cred_CUA + 0.1115*year_cred_SEG +
+              -0.4044*year_cred_SNB + -0.3066*year_cred_TER + 0.3607*year_cred_TNB)));
+
     } catch(err){
         return 0;
     }    
